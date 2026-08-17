@@ -1,0 +1,26 @@
+NETFLIX HIT :👇
+
+Country: ES
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: ORANGE_SPAIN_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Extra Member: Yes
+Profiles (5): DANIEL, Manuel, Jose luis, Zahira, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1839360362	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Apr+14+2026+23%3A26%3A02+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202602.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=126b50d3-42b3-4443-b152-0ca683701f1f&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&geolocation=ES%3B&intType=1&prevHadToken=0
+.netflix.com	TRUE	/	TRUE	1842384361	dsca	true
+.netflix.com	TRUE	/	TRUE	1839360361	NetflixId	ct%3DBgjHlOvcAxL9A8AG2dKxtz45IkQ9iZBE_QZWWqmi_2wC0miJAx3IMQjEnndgd2NT7RuZzZZ6tx5TjInVvd_WqxZJxp0_eSg_DE4nKnlikxDUq117s30vcEYOW39_BZrBMbv-3HWV9AsI9lQ5qVS8drDoMgWf0aYBqZSCuE74mimxTGLF-Fsbn3I334UuB7iRk_z-mX8uK359cZdP3v7BgJQOUH2bMPvfyLJjST9hKq3z_rvyWJunjTKZeFivcHQ-iw8ZkJaOc8i1HBwVIBd4HctiYRI11TtbISfpy-ZipzMu9LbQYILcbu8tzJ31FIsH6PMC7yDBv_DbWZrN4ily3PV6RMKChYNoJnMpJDJqwV5Adud0bsXeC8VY2e7M9xXnuXVMyMNBjYSxKa-wbnCZCxqif1oimUGox7OWyTBKtXtwGHt65XlNz8MzkzciGxiC6honsqnU1uqVjKs9oIz0F5R_dHDrC8TaAWN7h9bjrbVjAc2fU4BuTBZmUeS_Ml2t7cjlNuE8KTmR_RxsC-d77tq2Oc9zxFDfgHuWhuf3Nkla7A4KYvp8I2ySMbDKHkwrYW7GB0FDtqbLMw_VwxrPtLF9XmiJd1XZZ3hxz5VcPgGk8Dsd9Zx9nhsfk65yjXU8Az4uKIcKLMHcgxtE6hPn5G2sHDwJaSJXfKGWm8Gd2G20THplBXhWGAYiDgoMacBKzesIdxZb6IoD%26ch%3DAQEAEAABABSbtzWvSJQHJig4i5qMYJTjdI8QSmuapmQ.%26v%3D3%26pg%3DDZ4YUPKWQRHYJJ6YL6T4RR35AA
+.netflix.com	TRUE	/	TRUE	1839360361	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSaKfbHZVRabuemjjIw5MrdGgeFFouwqFo.%26dt%3D1776201960539
+.netflix.com	TRUE	/	FALSE	1815600361	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1815600361	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1815600361	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1825323390	_ga_97ES2RWR2T	GS2.1.s1759140867$o1$g1$t1759140990$j60$l0$h0
+.netflix.com	TRUE	/	FALSE	1825323267	_ga	GA1.1.1404838448.1759140868

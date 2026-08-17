@@ -1,0 +1,27 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Premium
+Next Billing: August 18, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 21,99 €
+Extra Member: Yes
+Profiles (5): Laurent Demarcq, Séverine Demarcq, Apolline Demarcq, Mathis demarcq, Jeunesse
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1813012695	OptanonAlertBoxClosed	2026-06-14T22:38:15.009Z
+.netflix.com	TRUE	/	TRUE	1816036692	dsca	true
+.netflix.com	TRUE	/	FALSE	1813012691	nfvdid	BQFmAAEBEEejgHJanOO-9P26ICJ4EIBggGDNnAG7-SmfYOUzQM9tpjY8ZsSTxDwOPJ0x7rPCRIZ5tCkjkyjxyh_Gseh8eh_p0O1hxSL5wFv4kuNWrUV-oVBHREGuLIBz3TVbE4L2oiFemKsriW5JJXcTG9powF94
+.netflix.com	TRUE	/	TRUE	1789495356	gsid	be018e5e-028a-4115-82f3-51a3c2f12aab
+.netflix.com	TRUE	/	TRUE	1817594150	NetflixId	ct%3DBgjHlOvcAxKLBOlX3-AaTTfxgesXSOYVQNTgt4ZuESOo7qJUkTb3mvAjIau0-KFVBZVyWVdFl5zJwf3g3miZU9kiCN1NOftbuZwsWg-8RnM0c9YBgTtztbyKJawLonDeKAo6fKyJNebmnglVW7w9FhKZU-OBBguo6lCvulZfOp-KbaXmt2EzPzYWpBpUFqD0Ib1hhEKwqTY6_bBg-Gq1tpssp33CDl7u4izCPIdEjHQpKCsdQsadkrpfnPgbAXz4O7BmwK7SmxExqVO7Fd4yjMQGrJ39-HBRiNpdjFZyyGG1Kmc1fBjuLZC9JTIjIX2P39pQ2cvy0VsS9Bj_Vb5ydxSmJsjvTOr8qumFG00q90AaSueHvT-sJ6rMmXG3NuIzhfaUSt7UZEGcW97QwgBEpJ2Xz2sqfb89JGUX8Jjk-AoCF22KLSRsUx6vA5Oi5IgJ-6UyMqYux5efon25PSxoOdSf-MT_4oFne2oymIgewatnfj35IbxmVxzvHWlJyY-oAY5KQ6jhRaPZn6AgAOzZupj40dQVIAZ2TfZgn1to6UjiKqPqhFaTH3siMDTBQrlHh7Q6ox0ofP0T2sEq1LScPAU9u4CjVcqGlm-hllZJEffTHCMv4JlfuxRMxvS1GIweatvZwPKgPmR2EeibakCr1Z5nWvpD2SV_rhKlbOrtnh5QVSKA5jbLMsN1jL6BPX6rQYEQ0Z4YBiIOCgwi-ffo8E4MS6MVL0c.%26ch%3DAQEAEAABABQ0WWGHsEqR0MPWbkZtuw7rCGxrg4_xO6U.%26v%3D3%26pg%3DRTHEGC5WUFC7HAOZHPAMN2OJGE
+.netflix.com	TRUE	/	TRUE	1817594150	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTIybVlYfK-MxF6MoBeBvpA0y_C01Tat2c.%26dt%3D1786058150331
+.netflix.com	TRUE	/	FALSE	1817596835	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Aug+07+2026+02%3A00%3A35+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=58a2c38f-33e6-4dd1-bcb7-3ec77eac1355&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0&fclco=&intType=1&crTime=1781476695392&geolocation=NL%3BNH
+.netflix.com	TRUE	/	FALSE	1793836834	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793836834	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789495356	profilesNewSession	0

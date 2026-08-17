@@ -1,0 +1,23 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: August 27, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: ₹649
+Profiles (3): Anita, Ayush, Ananta
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1807982910	nfvdid	BQFmAAEBEJK47d0I0T1L-pQUVnulPoFg1Wf_xXn5--OXJVT21iOIfviS_T9cf2SQqfDWiPjGCQ3gq8HbhyHzCQ3mfRsbWFFqvp9R1pN6tYkx0FGLvqQW-xIsf2OAyZyC5KV6rsosP2eM09s9t6yAy7uU3CcJKJeN
+.netflix.com	TRUE	/	TRUE	1818321868	NetflixId	ct%3DBgjHlOvcAxLQAzXmwHU9edCd8hAd_EArIFUVW4ZdolFPOI1BIJ7_RKyl4HjdTt32yDnmQfpZ2IXg0eVMKmbY4xzYWigJXW-jW-ib8bj0AgnB1aCMIQHX6n2Wy381aYUJVCFkrHEIx-4_F0R8Wy4DKIV5dhzSULHTMyna9tt0IvQc84UiYIspsaxb1ZRBx-SwG_mn1Sg2UfYCYukBkcOlDItX-KVybmreUy8weClke5JQRW8RJTE4piwAOF3diVHFkjjdttXH7YzQnGVNVobaCVg0tMRidQ31H4zCBeQG3zGdXCHamMYvumNyjLcoTOHOrPO21NMaI2-PPXPqkXkUseiGLqHK5Z5x-5x1zeX7bxEPjNgPygFTs3zEwuNAJXQyXucWddtzo0mKPNNX4xTidwhorS0MMep-bRSuveUwDQlXH8EDCB6Pt7Bc49YWuhv_poRqHnCsM4_wOaPgLrUS6ehyD15KPHE9ldvK8W1uWPWEuIkMhofegnl1Gjpk9EGVi075aLH6bAFTqbCocEgE8TKr1KsH2pIwLcs8YxP5_Y24a3hJITOWUfrRtslht9XC_Yr5Z7uANr_eUddT8oDd_HakzX1lGhIGpQQTvJhzjxxDAEVgR3mnmMXrGAYiDgoM6xMBAHEkzMolmDoL%26ch%3DAQEAEAABABSFTllaZojAT3QDjtYZOyX2vu5n7lVmOwU.%26v%3D3%26pg%3DZY54LKAI4RF3VBFFGXXRMR67TM
+.netflix.com	TRUE	/	TRUE	1818321868	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQE2j_ZnFEwpYsMI9sRuHoFWJ5-HpfWuPY.%26dt%3D1786785869162
+.netflix.com	TRUE	/	TRUE	1789495356	gsid	c8e0d6ed-157c-415b-a0d3-3f007e22a024
+.netflix.com	TRUE	/	FALSE	1818325018	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Aug+15+2026+15%3A46%3A58+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=75da95bc-09bf-4931-8c07-110374ef2663&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1776447035983&isDntEnabled=0&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1789495356	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1794565017	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

@@ -1,0 +1,27 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: August 18, 2026
+Payment: DC
+Quality: UHD
+Streams: 4
+Price: BRL 59.90
+Extra Member: Yes
+Profiles (4): Eudis, Sir Seroka Jnr👤, matt, Mouhhyt
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1802055477	OptanonAlertBoxClosed	2026-02-08T02:57:57.924Z
+.netflix.com	TRUE	/	FALSE	1802055488	nfvdid	BQFmAAEBEDEg3Pv45MlyAizUkX__W9BgkIRT9vDXeW8FkkbYoxw8kwODD9b8NSt1UeGK-C8XdRE1Qn_rRWKimRT3nOnbPqLUfTdDVjQnjZGWxdkvf2CKgE1ygEkobM32gyY90xAlVPh7iBLALHVvQ5DPy_P2gBKe
+.netflix.com	TRUE	/	TRUE	1817427995	dsca	true
+.netflix.com	TRUE	/	TRUE	1817428228	NetflixId	ct%3DBgjHlOvcAxKDBHuiY6YNlD4JKXgyFfJ4p7sNfrI6GM_9Q9ODTCMcHIJq3XNEF6Ldn8M80TlUIzCCyBRtq3qNwmqJ4oIKEyAkwc8BsPfRffDIVyfDP3zLjnkOqsq1j6Fnw2QdJ9ANX76RJIR7SvJ9MlgrBFHD2Gqz-HnThL8GSUP9oxhDy11au0rMGXW0Miw4j-UahFB3aTlfDSgROtw-08fKX-Uy7fwGDICNNjPqN_bYUwVP7XhuEP7zz30Q_bgUEN-JZSIpDotCcQ9udpAHaOs_UKDpB8UYuIJZ2hVw_Xth_X4wPFyKVKGTbtEWwL3TjWGtgQN32uOVDpJSpzcEWi3EMh9zNnhorQaq9M4-cxHJU5BRu4NVPNnWn8vAP9GUJmcqXjQ7oBYZqlia0Rk2uEldpSiHo2z9RFWpYkDsABVVShUbYJ43lH9pQY5uFt7wHCEZ0OntjsqhwVNT9ecUkX0G_0uQRqaZadKv5fnlXv62ecGrgnzZhYNkTXq14zDLTT0QIOdltbemXkt_Qf0TZh0uko-tu1Q5nmo3wCNW24wAqICl0hmDgoDM1g8hlRdUQpYgkNN2Kj82FLFBJ-D4ZXQQPdoPCm0TqG35YYwhmdM9acwLbsEx39B_I4bTgPtWN68AnFnFGH0H_tRj-VDd4m58AxdvQ7cHN1sXT_QIHYZBABY2XKFFm3-ycvM3GAYiDgoMr7qc_Dl1T3rTO4hN%26ch%3DAQEAEAABABTyIAR575ChnYumEbUwWAKM2_LHElm3DQ0.%26v%3D3%26pg%3DZEFGNQPRYRA3XEGD2R2F4JZGSI
+.netflix.com	TRUE	/	FALSE	1817428229	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Aug+04+2026+22%3A10%3A29+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=33019991-481c-4571-b40b-c91f0995f237&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=3&crTime=1770519478400&geolocation=BR%3BPR&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1817428228	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQsMt-nzOWtotwXc3pjoQzxGKN524tbGS4.%26dt%3D1785892228337
+.netflix.com	TRUE	/	TRUE	1789379305	gsid	c121b4bb-1f02-49ba-854b-e5efb9100b14
+.netflix.com	TRUE	/	FALSE	1793668228	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793668228	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793668228	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

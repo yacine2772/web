@@ -1,0 +1,25 @@
+NETFLIX HIT :👇
+
+Country: BR
+Plan: Premium
+Next Billing: August 30, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Extra Member: Yes
+Profiles (5): Livre 1, Livre, João Paulo, Paloma, Livre 5
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1812295353	OptanonAlertBoxClosed	2026-06-06T15:22:33.675Z
+.netflix.com	TRUE	/	TRUE	1812295370	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQrJbHdNm1pTHM5-pAt9PafhR9Jpb3Gb1w.%26dt%3D1780759380909
+.netflix.com	TRUE	/	FALSE	1812295370	nfvdid	BQFmAAEBEAJ-JppAQTtoVm9zfO8_U4Rgyhaxn9BSfSRR5gw8MA2F2E3lQAC9BxKWHlK3aHKsKlNWJakQQrtzeHo-vVdASZsxtG_00NvZ4TdFBV3WDunJ3iUAoxA9wZT5pOY2GYh5NXZSqxSzzlKLil3v3N7UHaWc
+.netflix.com	TRUE	/	FALSE	1812305421	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jun+06+2026+15%3A10%3A21+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=177722c1-b960-4288-b760-670afbf4ee1c&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1780759299743&geolocation=BR%3BMG&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1812295370	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKkA-AVK7np5Db89Et-A-UCPIxDUvm62fbIN42lT2CoGPFBktvO0foUloslkY0lTadB7xO1wiHQdU6AVbjsOkWOtoHohHvgbKNMyoFxzq4DW2qtbiBpt3rEjRiIfpZ6mFJ9I-Tx_wfUxY1MSG1ZucZpw0ZLGueox-1Rsb8V9P6p_GcZBMB_k9fFPXd2798a5LSOpz0R5lKadEucMM2UWS8ZusFm_vRp41Wk0xCPCPmsdF58nTELVdQ2OCsr4qrciY1rJSkJmx3UgPe0XXQHEvpSWS91bMIoRlGCUAv6h-sKCr0atNEmhAdQNmFCSQXsm29Nn_yn4RGVGruafzVCqHVr_KT_6ezQTvfj_dnKmRXmHIJMa-APcqWV2WTS72crW9_qyLSrNP4SGhWHAQMGxof-81K5eofhbeOLf8WeqB2YG0iTId6iQeTPuOmZcHt-mIIN9lx835SUzZmxEydt0wck3mD-W63EU6ub4MSYt4Uky6Auiu30cLBCRiClYrLboTEjVyxkkjBvX8tpAedtD6qcOuN_7PGxT-9eadBYG853clnFAuhq-xgGIg4KDEJFKSoaBfj9Opr4Zg..%26pg%3DJPWLQJDQ25CHBLRZI3QPHERNGE%26ch%3DAQEAEAABABQnJu4FePgh9f10MiCC9HKuCAzY31lTv18.
+.netflix.com	TRUE	/	FALSE	1788545420	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788545420	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1788545420	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

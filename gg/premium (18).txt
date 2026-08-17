@@ -1,0 +1,28 @@
+NETFLIX HIT :👇
+
+Country: ES
+Plan: Premium
+Next Billing: August 22, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 21,99 €
+Extra Member: Yes
+Profiles (4): Eduardo, Alexander, Natalia, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1789575285	OptanonAlertBoxClosed	2025-07-06T16:13:40.768Z
+.netflix.com	TRUE	/	FALSE	1789575285	nfvdid	BQFmAAEBEKVvt03EeLGUZwHSHCJZeWdgQVOVz7odeeJlikNZ5b79b74INzVucV3SqfiF8-YKgSqVrrHnNUMIC_qdT1nU1WVYa5EbpBFDggtjqV56QAXA_Knqer-Z4_gGj2cIs_EzeDBpuXSjmqW96ooOdCsAvr1K
+.netflix.com	TRUE	/	TRUE	1798816818	NetflixId	ct%3DBgjHlOvcAxLoA5-cBotjbRwtD7Kpk19tlTM2CDZOdrRGQ7MwFXTjk38WBczTleJslEM3yh7IgcvFRhTl5eB_ppNPv4NtZWQVBbMTMEn0La0Q58gIJkKiMheYneat6GzrXjX5DC-Uv3AsK6IDTE_KfIpxOOje3mvFVUu0scF0LrwlWu7KLlZAPK_9UZxDRmcQ7G1lh5buTSC_8a9QnMv26f3t24XYNhNhM6CLBUUC34dWH1JODhKVkSDrlqUxEFia40ZcADhkjTy4vIdmzMZj4gXKydgmmYYWojJ4k4RW7Sb-I0i3NJ0Rh2sfGnqH4dZ6AkPbv_DnUdKIpbDmbJwKfcPUbUgdddT4qVtmPOXzsOG6TQYKwO210OddL81ZAWKkOUXyAmwOzkA2kKTywpdasOsvn2c8Y0ISLQf_Sq5zQogumtqivN1tI8fkxBkL54vq6Sh1mHxCXoeuwTrdH4Y64wpXLHPrvZQQ_ICx8b7wC6J_MABSb50RONgZsJN_OXk8D9vUyvkigFOoMxa-7SwFhTukbvY53LzFOoHjDW6QQzVB2IBWdvYNXl0kWW9dc68QPJjFb7wa0LsMcgsEWnSlv3ygOeG-ZhBb2o22oOO5t1j5Ik__fltkvv3yssxil5UWcf3VTiBIIHAn_cuZ_MDSbJu_GAYiDgoMlYpKg3k4PAJ5Suve%26ch%3DAQEAEAABABTDpb8gimt9OiF77rTONIETDAJIPYhqF20.%26v%3D3%26pg%3DKAQTZBJ3LRBALK6BLFMXM2MV7I
+.netflix.com	TRUE	/	FALSE	1798816816	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Jan+01+2026+16%3A20%3A16+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=02db1f7b-7ad3-46f1-b4f8-d3ec9a2acae5&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BAN
+.netflix.com	TRUE	/	TRUE	1798816818	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRzaoNRVGDM5lieCATz-DiE_LlKiQv2dhA.%26dt%3D1767280813337
+.netflix.com	TRUE	/	FALSE	1801840814	dsca	customer
+.netflix.com	TRUE	/	FALSE	1789575285	flwssn	55603a88-93b2-4d49-9a40-18eb38d8ebaa
+.netflix.com	TRUE	/	TRUE	1789575285	gsid	9511f876-c226-4e5b-908d-a50db1a2a789
+.netflix.com	TRUE	/	FALSE	1789575285	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789575285	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789575285	profilesNewSession	0

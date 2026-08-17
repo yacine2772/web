@@ -1,0 +1,25 @@
+NETFLIX HIT :👇
+
+Country: GB
+Plan: Premium
+Next Billing: August 22, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: £18.99
+Extra Member: Yes
+Profiles (3): Lynsey, Mum, Helen
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1789575285	OptanonAlertBoxClosed	2025-05-20T20:41:32.477Z
+.netflix.com	TRUE	/	FALSE	1789575285	nfvdid	BQFmAAEBENy74kWV1KS67k_6TWOX5ddgb7lrMvTSLQBtYabSapXfyjrhCQfwlXeFLwS4foQtBnALk__m3DvbH_8UB9BgoaOI6xQsfYwQWjUV9fbdvg-p9qhK4n0nsew7Q-VW8j5_aoqNrdrW8T5SwOtV1LB128tZ
+.netflix.com	TRUE	/	TRUE	1805663240	dsca	true
+.netflix.com	TRUE	/	TRUE	1803746363	NetflixId	ct%3DBgjHlOvcAxK6A_ZYuWdFuGENMO6USRwRdp7hV6DkfCFuKCNfWDRAfLwuBKNY7xXkGsY6TZUmwHxCT2ngHfatcaCKFr0rtSkEncVlWcQHzXJ5FpjPPqtQ3UECFQK1gvjRqqUW2apIhnDZHNmU31q_eOXXNwm60X5RnRjQHLYtfNVd4l-1C0MDJ8oNcfQNO50HslSHgoI4iBLnB0y8-GOsr7mpceCfjWSWePDARPYpZjOaRmyMSAbSj1aGs55fhi6f6zfqMiCYJlblLsF-VazMUdqbKEBCdG9isSK2rxU3uTaCk0jv8YmFC1c-Z8fL2LpqfuEdjJaBovvyQNhaXRek9A3MDmbST6LyUwDVd9jJMbaJyBS4CsPogOyrqBmtAy_4NlbQ2BnBj6XhCfOv1JC47MJIu1nRXDJ5HDRwZ9Fo5Re3vraO0lHQSCK3ois-Jv_zvULFRmnB3XDwGwqcoXWPAPbI2pqtHDdL1Bqq8_u9bnyg73tTlVtTl6JP7n28ds0mNAWhJhMV9YQv-wRRt1nlqRQ8s_2gotTU7AfWcX4i8tBkGZrSFcdL0oBQPfEeI0YqtUk8rSv2tTJH6qW-4EMW3KsYdo4YBiIOCgyHSAyoToKBwaYk5TY.%26ch%3DAQEAEAABABQ2mNE_pb-vDL8Vr328pYSLJKubaO0sP5Q.%26v%3D3%26pg%3D53V6UF7D2VA47P4HJTAFSBLDGY
+.netflix.com	TRUE	/	TRUE	1803746363	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQp7E6vObTit3byNLeyGcMiLu3tqHw2ZAQ.%26dt%3D1772210362677
+.netflix.com	TRUE	/	FALSE	1803750508	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Feb+27+2026+17%3A48%3A28+GMT%2B0000+(Greenwich+Mean+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5aa48830-3c45-4ece-894b-80275b2aab87&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&intType=2&geolocation=GB%3BSCT&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1789575285	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789575285	netflix-sans-normal-3-loaded	true

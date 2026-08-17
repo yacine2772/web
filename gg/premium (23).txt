@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: CP_FR_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Profiles (4): Val, Christophe, Abonetflix, Carole
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1788174796	nfvdid	BQFmAAEBEEFQ-QbqEZYFSTYr0voo6utgiaE_APBnOjWN_rzGej1P0jVdO9EL7Lf5MiLLFS6BCuH75A12-AMGBqp_02UVDHgGnpD_LbTNy3VXCwUGVkJ6Reh-NlEyRXZllHxsE4siSuGcWTRfJYHkoVq5QEI5Ut1m
+.netflix.com	TRUE	/	FALSE	1788174812	OptanonAlertBoxClosed	2025-08-31T11:13:32.080Z
+.netflix.com	TRUE	/	TRUE	1796500811	dsca	true
+.netflix.com	TRUE	/	TRUE	1800823102	NetflixId	ct%3DBgjHlOvcAxLsA9exDNPvGlY0SfIIzL5uCAd0ehK9XpxRF-W5KCyZ5OA3vbP47rF2SSyzkFmNwZWG7xbaQwuf9k4XLZuIgJ3-t3BFfGnXG57T7Ovc5quYMBc35dcqdzsZfwNqqbLnqr9ctZq6jpe8PqCyZdhubMSdgMPBBkGGeVyY6AiUPIBiwZjCNWwvecum8vGeJIVbFC1hwk1H1b8hp4wVE4WKmNbE-K0jZaRIxd-ViB_QPwHpznkGNFvpkbWT_KpL9b73ipVbytbh06IjVA3Auxsf9iGDYkEyw_kKhMh9yKKspk7wxOEWDgxyCXymi3pWWzwUGdBnPiokqvtdB6aOcvTex0OIJmCdvrmor3HJUl0yNCDFZJLZDKhPuuJieGW6xnCD8h_hjan9DTzPqdw4dR2EuxP43Nypm2Bm6MvgzSlboirGHtAgOcX8RM1MKkrgr2YlTm0pYYp94YBwTKS1PyOOb_wNZCLD4UNcahoqTHVY5aanfG7sXbaM8dNEq97Pu9XECHHtSFnH3qA2CZWBhKmlY-i7kS4JKzdB1nBo-P3Hq9jKmHBv1hck20qmGYDCN5Qb-TPqfMtEb7KX1GVz5i49uOS3s2XkWFayPp5z7NFvWdh9mqBIosTTmS5x8iu8gxIoE1zbpEVGqOWp317PrFtS0BgGIg4KDLVLTpNW497ctZVbNg..%26ch%3DAQEAEAABABSY4ahVj5ZziSC0JgvpSHBpYzBbsN3FOLI.%26v%3D3%26pg%3DY2JSZPDQUZCOJDPI372EQKUZOI
+.netflix.com	TRUE	/	FALSE	1800823105	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Jan+24+2026+21%3A38%3A25+GMT%2B0100+(heure+normale+d%E2%80%99Europe+centrale)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c4a0e750-4128-48ad-bd6e-1dc8388b9d2b&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&AwaitingReconsent=false&intType=3&geolocation=FR%3BHDF
+.netflix.com	TRUE	/	TRUE	1800823102	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQsvN0J9TNTjdHECqDjn8LCVDDMCZd9pYE.%26dt%3D1769287102914
+.netflix.com	TRUE	/	FALSE	1789575285	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789575285	netflix-sans-normal-3-loaded	true

@@ -1,0 +1,25 @@
+NETFLIX HIT :👇
+
+Country: IT
+Plan: Premium
+Next Billing: September 10, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 19,99 €
+Extra Member: Yes
+Profiles (3): Mia, Ge, Bambini
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1789575285	flwssn	1e801a33-f7a4-48aa-acc2-ec6dd966e945
+.netflix.com	TRUE	/	FALSE	1789575285	OptanonAlertBoxClosed	2024-03-02T09:24:51.737Z
+.netflix.com	TRUE	/	FALSE	1789575285	nfvdid	BQFmAAEBEEkvXSMTjRAmqt9ke7bWa19gIH-m_lIQ9MdWqOQv5r-c6J54zsS4MDTU6hLSQdtHpol8_QgesjpEULO2SHstauyWLRnDyyoIJMeRtnLgun20yqUdc5j9t_5HIxhQvivGLMD07a-5PeAydUf1brHYy1fk
+.netflix.com	TRUE	/	TRUE	1789575285	SecureNetflixId	v%3D2%26mac%3DAQEAEQABABQph-1Z_2vxHJcdm_kNx5fGQp036Dn1c3A.%26dt%3D1709371571387
+.netflix.com	TRUE	/	TRUE	1789575285	NetflixId	v%3D2%26ct%3DBQAOAAEBEKy41rkMwSxGTNAUx96n-6WB0OVuI5k-ieBIzk6jQtdGarvCmuDwo2cH3mHsCZjx-o0FTqAOXmXFTPueBsa8bBAAW-qsuw5r85UXzcXY71zGy3lxuDDwXHPRdKaTJvgKa8BTUxX93JijTTwaw5JcbmYvX5x3N95vexO_MgnEcwqP3GyIVjCGe8ZjimJWWrFgE4MtJt3id6Zfq7H50vidxH_DH-gC_MSByGgXs6NdcRQlaFa8NcJNMeKMlZZF2b475GCQgvTqAnGpX2t2XM710A9HoY0jX9NFaIaU5gqEcwTUtn-st9FQIdfVLETQl1qOeknlIf3Ya_aLsyUVQouRzkjUGVavxGtwt31pF6V0yR3E956L_mjEVSwzlqBnin6Mm0uHx2XvoC4Y88pWynavLK8mtHkyKKI__ULVBZfgny6f8vn5okzbAKkFtCRPou6PG3h_16R8S9dIBQmZMJcIpj8yJ6CGT7dUmBwq0n-VSp_LTws_1Cx_6UMob5Kpm1EfA3EG9E_RWwfP4ufLJOx-7xLThnOSY4v9VFfiDhBmNpPuOuci8q3pl9APMu5EHsjgY-612uTwEQ1Ro744KyOC6qZUjWqOVvVah10OjyJ5rCrnbARQBN6lbeqPKzcAokJEljV5%26bt%3Ddbl%26ch%3DAQEAEAABABR13JdCHVmMpHgVuMdYjKekf7dM8xrHlk8.%26mac%3DAQEAEAABABQLWSmef7dwPiDcEQkzr72WX5UHyXpvUb8.
+.netflix.com	TRUE	/	FALSE	1789575285	profilesNewSession	0
+.netflix.com	TRUE	/	FALSE	1789575285	dsca	anonymous
+.netflix.com	TRUE	/	FALSE	1789575285	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+02+2024+10%3A40%3A33+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202401.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=fdf98737-1314-4cb4-8d70-0f983afd81f0&interactionCount=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&geolocation=IT%3B45&AwaitingReconsent=false

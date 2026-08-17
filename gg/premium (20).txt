@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: ES
+Plan: Premium
+Next Billing: August 29, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 21,99 €
+Extra Member: Yes
+Profiles (5): Mama, Pápá, Zoe, Noa, Princesas
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1789575285	OptanonAlertBoxClosed	2025-07-02T15:15:56.615Z
+.netflix.com	TRUE	/	FALSE	1789575285	nfvdid	BQFmAAEBEAlSw1T8OGYiHxZGhGxyXsFg2k5Gw3xPFL8GdA1ococlqlCPdhtMRkmH-3R4mxdnmLfQGsonlDuB0Z-Rsl6k1n2fEhpT_gQoN3O8z9ffLHx0FG2bu6jlQFA1RPHUcXOm8KZvYXeCCjLZYRHod257ZEuD
+.netflix.com	TRUE	/	TRUE	1801334760	NetflixId	ct%3DBgjHlOvcAxKTA5X8nlOa2zhULxuU1eLs_PnI0T7DFcxMaZ26rHAOFYl8vhQNIouWGHot_C-1bO1uKWxs7VOSmqNvXnovpPonJhrjdAIFC1qlipJSn986mtZSukHChxJhEOU3rIFBwji5n0IBNRRzQw3JtoomjJ2GqjbM4s1ocmLaGzeKz6EC_4Ga1S3PfPo84bNm97O7jtAMw_7uiYwdxCRmVrAM9t2rn6o-AYvKthDF_KMhKlyZ5jRnULUSFw3g58aX0JhN0jUK7WcfBmctc4SbTctxGjGclBe-xPv1FisZIyPHyjlthfty_pl5HQgezJYC0lwK512Z-JC1XH0yjAx4d0Bw3L3XN1Pbx73lPBij0Q3VkjJvuQrjh3F47bx7WSGwLEQB0kyJv_rblD5WPMa6a4Vthl28yL3fmLbkLpD54Zw_inZN8p6cFanuLv4iSbb5XA_tIwc5Z8T11cLJ3hksqPyyEUNp-GUv6szuVg76cj2BamfaMktlKbV0TzIwt_tGjd8Fo4dsyJfISsXYpozmV_eXAMla67jb_DAYBiIOCgwDR7qIQLjsPD1QEls.%26ch%3DAQEAEAABABRetA3yg65Qr_IpHlkMMqyDXCekF6lUXxI.%26v%3D3%26pg%3DQXAOC5RJUNDDHJPKBBJHH4BOAA
+.netflix.com	TRUE	/	FALSE	1801334761	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+30+2026+19%3A46%3A01+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=a155cf55-ca84-4bf2-9357-88afc68eae93&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&AwaitingReconsent=false&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=1&geolocation=ES%3BGA
+.netflix.com	TRUE	/	TRUE	1801334760	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABS_qIb9IG9X_0JZOzzJvwzAnFmh8N8jDU0.%26dt%3D1769798759659
+.netflix.com	TRUE	/	FALSE	1789575285	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789575285	netflix-sans-normal-3-loaded	true

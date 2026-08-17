@@ -1,0 +1,22 @@
+NETFLIX HIT :👇
+
+Country: ZA
+Plan: Premium
+Next Billing: August 21, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: R 229
+Profiles (2): Mhlengi, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1816532849	nfvdid	BQFmAAEBEAmjWeTqGjy5_ipcV-kiGFRgk2_3sfodrylyUQK-OeawnNm1IQ_85BuhxvnlRdNkccRqG-KEC1UQcIfUpM4s5vXVuqvGQuip4kk-fmiKk5wdKfoMMV3Yed3tPy6hi3b6HRo_qUtmY3ULmYpbEAmlnfnL
+.netflix.com	TRUE	/	TRUE	1816619329	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKNA_6zeOpnHTcyDp0itrhBgZZ5SRn37RL6Cv_CH4zgNPwYfPnrIDsJ5Df2nzDKiz_rjRGEmu1jj1f_udcespy7KQNtnOgXrujjUN0cczoZc05SE5Cz3NSeCQt9kAXwTFhA-UJa47JIdjA1MO1T5Q_A2HcklTfXsOZNFNwZxg1W4_B7NIJxgOWNblZuB1zrpb05MsRW1kqWGS5q2K30HZBU-XRQh9DPdoMkcPsuLVqXptI8u5bMJk8cQHlXwQZjvJQv9kocgkMG5lGyA7TSXsEmL1FcgBnAoAm7-_sLoOpjX1ZfDsr64v9L5ALrjfq2DVH3X4an8PNTODE0J5PA0J69npe_TUmUQFKiBd8W1IJj-U1RatRfEm7mSHNz9G9nMcTefpyLihkQryvqDDW78_Q95AWugOVUTsLd6CREzQhweHRd7Ag7NsEGEwsxpQx-TD-O1vTWyGOZHKwFmYI8ZRCx_kRIqgxPI_opfFGyj-LTS4j9HCUe4nquK0G05mf84BX6hxPa34MCNqM6thonezcYBiIOCgw20iT8Z2SulJc-qr4.%26pg%3DVLAK5M2K3RHEREXEWCXVOBKCMI%26ch%3DAQEAEAABABT5F15BaN8J0xlnUPXhfGG0wtkmOGysO8M.
+.netflix.com	TRUE	/	TRUE	1816619329	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTdaV3brufDcKSOA0AZpuE2DYCkG0qQZBs.%26dt%3D1785083326955
+.netflix.com	TRUE	/	FALSE	1816621305	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+26+2026+19%3A01%3A45+GMT%2B0200+(South+Africa+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=98ea2c01-a47d-4d20-a7de-8716da76f5ea&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1792861305	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792861305	netflix-sans-normal-3-loaded	true

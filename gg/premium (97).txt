@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: TR
+Plan: Premium
+Next Billing: September 8, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 379,99 TL
+Profiles (4): Yusufali, Ferizan, baki, om
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1812901117	nfvdid	BQFmAAEBEIldBpdZW3ufPVhM2i-EJXNgMahHlKSoXBNndEhbZFn2C-PEiG61yt7lafMvbGypEBtbJOcMyPluVPl8zJ0nzpYXMbcsFeGHz9NG9j8jlBGEO5-NGEQDGNSXsBVUnYh0jip6SJzoUobEQOokhmxKDekF
+.netflix.com	TRUE	/	FALSE	1812901135	OptanonAlertBoxClosed	2026-06-13T15:38:55.882Z
+.netflix.com	TRUE	/	FALSE	1817078036	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Aug+01+2026+02%3A53%3A56+GMT%2B0300+(T%C3%BCrkiye+Standart+Saati)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=681d566c-08fc-4e3a-8b36-f5484d2d4df1&interactionCount=3&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1781365136493&AwaitingReconsent=false&intType=3&geolocation=TR%3B57&isDntEnabled=0&fclco=
+.netflix.com	TRUE	/	TRUE	1817078034	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSLbsrzvKHKmWAMGg4IjIha34GZfjW0Qs8.%26dt%3D1785542035754
+.netflix.com	TRUE	/	TRUE	1817078034	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKfA9pX9Nk7dZ7HRcv3bZUTgjc0ku2reqymed3hxcpLDAwF4GgR1Q7Cx0udoYPgTM-KMDFForOxbzE0nNprx2r2mj1rMGfKfKkZrQzc6dBIfkA2ANGq0RX8J0liMtI-_GJyD2VZtmCeq2nlhH4ON7333Fj4aHnWk0h5VJ0RlhqQc1kSmo8mG-4WzjX57QoEfneVZpuW6Ggq5_azz914ZWzCY_QHBrz0wnXY5oql2xfVVcwe0JtAHZnD6fSrKRLVfYz8OFylhHr-aIYRgZj5WF7GGGsert2n92jXvaYYsmjJAqH0THyoZtPJBzwrk2N0PL5Aa3Hks43K4QBL5w3qzf1KZJX75tgK8OPDka7dReMd6fAqvuRY2-897qHO_zLd_j2tDIUDfSj9yMgCTmFJYzpJ6fF5U7XQ_mAmm9QcX5MaVYJLO7UkUAH7Tm5MXWHzuODNqz0LP72hSaMKmNlcfFHb109qBguglYrlkFz9bcXzxWjIRiRo7NRRlU4gvMLfl6Iy3sQXiZzziCF2rRm84DgTYPNVdQrPPxg0bJB4n4DAbogYBiIOCgyFQVYgd6gsX-5lM4g.%26pg%3D75LWUTW3CBHHPK5MM5JAQGTGZE%26ch%3DAQEAEAABABR33pqj7Uh469ajsiMXqzDQVCYAUlv-vtQ.
+.netflix.com	TRUE	/	TRUE	1789379305	gsid	f3c4ffad-4aeb-4625-97bb-ed34d3ca062e
+.netflix.com	TRUE	/	FALSE	1793318036	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1789379305	profilesNewSession	0

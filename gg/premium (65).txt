@@ -1,0 +1,25 @@
+NETFLIX HIT :👇
+
+Country: IT
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: TELECOMITALIA_V2_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Extra Member: Yes
+Profiles (5): Salvatore e kekko, melissa👹, Marty🫀, Annalisa, Pina
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1798236749	OptanonAlertBoxClosed	2025-12-25T22:12:29.978Z
+.netflix.com	TRUE	/	FALSE	1789575285	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789575285	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1798236995	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Dec+25+2025+23%3A16%3A35+GMT%2B0100+(Ora+standard+dell%E2%80%99Europa+centrale)&version=202510.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=53762d7b-3135-40c9-8f2a-c45683aa2fe8&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=IT%3B72&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1801260995	dsca	true
+.netflix.com	TRUE	/	FALSE	1798236995	nfvdid	BQFmAAEBEDjPY_yZd0j5gTJspODKNmFgo5VElUUnKuXs2BGCSQihv11NlUVCgUmrvOXEElJNb94qrvq9u6R9lMMq-XaUqte0zBFzXOVBQRdBD2OHx2IRSf9lu_0jhkkVdZdq_mPDHZgnVQqP6r19Q83Pjs53p7_w
+.netflix.com	TRUE	/	TRUE	1798285006	NetflixId	ct%3DBgjHlOvcAxKrA9RlYw6EtuYQvV4--J9TwjABnrEsewV6cHOh-6Xpw8Z53AxcDTzVh4zCEFPWTJFCc6VOBnSBqaZs9ZFg4CvDzv-X_3--jZa5thqlwBsP8gTx7sCSGC9dQt-fUSeX2ZsQ-X1I9LUCx8OQ9TLAtScPnBgpn5gqMOa6O5KWxatmxRcGUEWfzAOeytElThIviQHLGAAGssLJSa7VCprmzyJmKwFFU4sxxmKNVb28OPX5f7FlOXiQZU9MDQu7sdWckZEgGMDgSJNXHoauxUDhNfoDx_lWnCBmXxHQAIZkInbyTFHefKa2smGfQIbYYCIFJ7Mlnfh9T0poeOhulHg1AyQ_k4PvPlsddKlCsslBCuK9HAQ7gt6znk-XkIZMUpPms2qr8wQYvWwR0ijF6gC93Qfh_7AJRyRBgv7bguhOrFGVumXzib7DfOpHHcoumS6q3hu0RvrfK8MAA6TO0xso0sRzAjy6LWmlL-thj_xHUgOdDOtqtjajYpxTpxI9mYjTLMYMEXikGqdJFsIALSmFy1gmM1F3dwqXjlFF2-mTtRMbITAj_vCJBLFrIcSsm70YBiIOCgy6EVYsNLfBS84PYCY.%26ch%3DAQEAEAABABR3CqluvDcVxXLJNRz2YIjI-LwOfYVYBMo.%26v%3D3%26pg%3DEH4XEDKJBJBM7E3P5MKSDVTIYE
+.netflix.com	TRUE	/	TRUE	1798285006	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSOyXRbO-eAgOBnZbQJCLaMZJhZ42rciyc.%26dt%3D1766749005538

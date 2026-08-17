@@ -1,0 +1,23 @@
+NETFLIX HIT :👇
+
+Country: IQ
+Plan: Premium
+Next Billing: September 1, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: US$9.99
+Profiles (2): nerfd, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1801549188	nfvdid	BQFmAAEBEIUDdNh1U88YmHpnnYDnch1g2kvFX6b6aPZErO7LnQOchc0cpoXYXNNrOqZwCxyXYTEMkx2Cg3pvmojgvNSAELlr9MCCP4jggnejyw0VFGG_o3SpZhoTOfJ4i047q7SkGlz3D8iPIrupyYN4YN4A5-UC
+.netflix.com	TRUE	/	TRUE	1805627360	NetflixId	ct%3DBgjHlOvcAxKIBET6SM-VDyk9m41n3SEVGLTtn9ztEaMHH-sIgE4D-TH1JBK9ZZudi5FlMQW58Es9c52VAgIWGd2qM0thl7alaQox3Re42Gm_XnXfQZwr3aOyTNpr0QpgWm6WFT3uSrCIgis-oR2ZmYYEG5YF8_aniIrOe3ueaVfqqHcUcylUhCTMq5d-7ICflvdP7hV6WcA6y2YOxBJg2XHZFL8iglf1KZJJvwXCWmKAFtL3hkpAN0VBuurK106hmUL8i0AxHSZIKsiWDdktqdIBq_EXrl0Vz53BfTidWgd6L9HHpitJ2_vYb6FH3b4l-8UzQDep2x8eXyJLZqqb5J9NSqaBvhbiQoU0APC0W0ZxEEJCxbwe3XtDqy43t8HHLGzzsX7mAddJ8-i6XieCo9201O-FzbB2rzUeNtqICmnLGvewP-qJTyJsPzDXPy_kfZU2A0B-qqZCeYW97arA93clo6sG1JYsNQEYgfuZjIvW46tOa3AYs8LXtUZuNweBphOrodidI52C_fVs7Y-FDG_N6gvDO2nEYcaMnue2RdKvEb5AqKwUs-_mSlwHROU1yeqcoRicHGEAUc4u30ZBfNfDscBwq3ODnE0-5ZB-MXn5wSU0l-fmNKRL75T_cSoGZ8dXbujECWNexymqXvxDzIMIHvaC4FS0dF7tiFZwoyvJ1sYWISIH9b9wS4E6yfBBjfMYBiIOCgzWzOF6GH7XcnIApoI.%26ch%3DAQEAEAABABSrk1UGjB6VqZAPsBRNdaZGpCNMkY4AO4g.%26v%3D3%26pg%3DC22I5LVEQFAFNISSG6HHKCH7SQ
+.netflix.com	TRUE	/	FALSE	1805627365	OptanonConsent	isGpcEnabled=0&datestamp=Sat+Mar+21+2026+14%3A09%3A25+GMT%2B0300+(Arabian+Standard+Time)&version=202601.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=67f82173-af8e-4be1-a3c7-2e892ef9d16c&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1805627360	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTxQ9CQa_0guKWPvEHoxezf6e0VD64lXIM.%26dt%3D1774091360347
+.netflix.com	TRUE	/	TRUE	1789575285	gsid	08727d76-2616-4f83-9c07-12e99a22902a
+.netflix.com	TRUE	/	FALSE	1789575285	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789575285	netflix-sans-normal-3-loaded	true

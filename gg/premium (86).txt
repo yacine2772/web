@@ -1,0 +1,23 @@
+NETFLIX HIT :👇
+
+Country: PK
+Plan: Premium
+Next Billing: September 17, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: Rs 1,100
+Profiles (5): Sam, Affan, Usman, Adnan, Alley
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1788898212	OptanonAlertBoxClosed	2025-09-08T20:10:12.980Z
+.netflix.com	TRUE	/	FALSE	1789421883	nfvdid	BQFmAAEBECvIOzvk_wdIhGU3sSWm1DhgRs0T-A0B5Qp1nS2seH6kDs-ZHN6YwXCdGh_r-LT8-FadsT-mglOKh2dhIbSjdPyhXJJl9f-W7GeOzJTto8tEspyCrJWGP407br56uqmAFJNbnkRXkAxXWaGgUgxolEdY
+.netflix.com	TRUE	/	FALSE	1792508738	dsca	customer
+.netflix.com	TRUE	/	TRUE	1799780813	NetflixId	ct%3DBgjHlOvcAxKwA8MlJIYrrtMXxx1H19iCwVec30HE0w1EmDIQvU9zIRA99ZNfLaBVHmGVKXTgNpBYRaVd0UEDUS4_HmFeOCpU-0pND9bzsZ7C2y03SXeTvLtBr-35E6e3UHWj4QzH43dESClFvmDHYDsZLCKDmKxWhkIOWk86-h2l12MVAUahlwnR3X9Zpry64ujCIpsZUIqiAvhXVYm-OoLXwDQURK4EOJzLI8I1rLSaop7e4U8pRcejyr3Gw7ad25BiU4HTYZKSc_t_7wX4ElV6DGDpJAEolghxEYAzhOj1VjraFub7p91dEKg3yHl9b-iuSksqcEZF5aBadoxJKcGvcoMYMspvhTt63HXmCbbZfghCKonwUE6m0qWwBeEZ6Gpr9ZnMmpjFQyBXACJOavbUhbWDQre6Khd8zJRAwC4oYKuKShS4OB--0BESgxmNHbg2cSDiWwNxLHBUl4NtoOzjc4J2_zvv5HXZfkDFxzvabv69IUtpDQSPOyXqIOgWlJffkNK4CYPGyLZD8e2qGRQwxfevpeGjchyHUf-gUcM6lhuZ8xLdB_aKUSrYjCdR8dPDP9jv3yh3UBgGIg4KDD4APYVDfZTTEzfuBA..%26ch%3DAQEAEAABABSzIBhnU14KlPagxnKpvwu2mQ6HWGqrFzo.%26v%3D3%26pg%3DQANFQ2E7IJFG5CHVYGE7HDITWU
+.netflix.com	TRUE	/	FALSE	1799780814	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jan+12+2026+20%3A06%3A54+GMT%2B0100+(hora+est%C3%A1ndar+de+Europa+central)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=5171e368-2089-4077-b88a-be4c2ea8dda9&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=ES%3BCT
+.netflix.com	TRUE	/	TRUE	1799780813	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQYqJDa5raBclMIqnGYhF91jHL9p4TqPdU.%26dt%3D1768244812364
+.netflix.com	TRUE	/	FALSE	1789575285	netflix-sans-normal-3-loaded	true

@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: August 25, 2026
+Payment: UPI
+Quality: UHD
+Streams: 4
+Price: ₹649
+Profiles (4): Skan, Dave, Toy, G
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1807199038	nfvdid	BQFmAAEBEGHyaCW6HzXCz-vp3XvtegNgUavpQRHiVOgRfY8wqBFEPAsxp4us6xFzOgDSTK5nRoo33q9gq2zBuvB2TgEqgyVHSa-CvWbdx2z-mCNSk2KZC370yMc-agd7bGGL43HuxpBC12di6XJNhgAOuKFJH3_x
+.netflix.com	TRUE	/	FALSE	1794372890	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794372890	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794372890	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1818132892	OptanonConsent	isGpcEnabled=0&datestamp=Thu+Aug+13+2026+10%3A24%3A52+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=240fb022-d9d3-4c8d-819c-484312930c77&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1775662779746&AwaitingReconsent=false&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1818252952	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTEcLnioaiwQIVK_5_CkXouzbw9d_la-eY.%26dt%3D1786716951026
+.netflix.com	TRUE	/	TRUE	1818252952	NetflixId	ct%3DBgjHlOvcAxKHBMLYuYAPVXxkg698fQxTa44qOrvt9swZh4rB99j-Cgf9RLS77dxzXyfzd8Mj6D6kFjVBXXa6NeXWd6hCRC-xDXng5OKdVT7MGrkTvIQa-OPxX73NIZXakT_fvhAsVh4HxF85dHtlaX-t64TJ2qdIBsoO9HgLc4WD8WyvanzK01O9aQFMEU9LLDmmh0ZUEZDHx5HU093fc8GO89W107eVnfiVHctEmulcSiAxobsiNw50BQXUNa7eFrme2EtceqbdrK2FUoRNlQg5UqrYOwDYxQtER5_i5aO-hwXtWIK7458OO2l4VjKQCcSloFxmFMDS5b37EumErqDnipq2XOtFTWC7DJNIosFxeZtX31qsqsnrOBU0Bvfwv43FonjQSkVmguKZtDVJwn3BbzO5afYTxew-1ltu9a3NH8VSuSP667vY5uIHqJzfYS300WlvexCqjqFeRkTbyNKcIhwUWklJ_kfuBG_e5pGI26-M-I31ULp4OAnViXW69O3Yv3XUpN91DIEukqNc0sbcHGRrs-4IOzFbVMm98WLMKiHlvzfYvpBVzlhwIsjS8NE9Jti8GtKXWCKb6JPeVCTXMabHm_dladNm21r9xTvoNtwdPPumItesUYFXzHDiIKgGS6OK6IJ7lCmH6lpGZR0UnX53RFJ656Q1Rforrcibodwf3cMtW8TCWvDEtZPlBxgGIg4KDGUnOPA_xr8IgkvjmQ..%26ch%3DAQEAEAABABTbqLQwFhm8VyY1rg2y6fgEbKH15IZDzXI.%26v%3D3%26pg%3D7E35N6KS55GMJJX3UFNKQXVE3U
+.netflix.com	TRUE	/	FALSE	1789575284	profilesNewSession	0

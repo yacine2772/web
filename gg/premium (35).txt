@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: GB
+Plan: Premium
+Next Billing: September 8, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: £18.99
+Extra Member: Yes
+Profiles (5): Boss, Lucy, Kathryn, N&G&AL, Alexander
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1802523055	OptanonAlertBoxClosed	2026-02-13T12:50:55.448Z
+.netflix.com	TRUE	/	FALSE	1802539851	nfvdid	BQFmAAEBEKQsrAVSMuU933VvtFGn_6tgfQZeTa_zRu1ZST4GpCI75mAsD5d6_uIStXWeDnDxFWTQJ0lL3CxURZ_FOfX92lJF2UOB0RLgPB4zpS7BYMnWVz-fVbNbtLaoTYaouSjnNDm85e17LO4aBMbgFZNAyAl1
+.netflix.com	TRUE	/	TRUE	1810490047	NetflixId	ct%3DBgjHlOvcAxKDBPjiSbh1bf0s_XVtcitZsWwCg4N2uDi0R2XxDUnOilKm3gXdo9tcrHyMEdEgY09_ZomwTcjmFD4DHJ6mBql2SaLUDPMCRetcmeTndL899MMzrJ0ZRy84mcwjXPNhplE1xI-TX9-FyOQsJlfrnxivtTlw_oki66ZauwndFbIfEFBrinPxW3K0JtV-tVNFeQw8Spwtdu0T8lAor6HOahCFYug0Bmga3f7YpzGA9sizCyk0bxgmxj4TlSavwURkZY4chParzGtk-ggGYthaumtMgvuiEeQDP_TSGLeCIrTD5TVcBml1fIiHn9L4tV0UITPATFbf9HqekyLl4I8tK8OhNE0Xp8PtkX2FQmNMjXt5bidaqm55y_7J-7oUHTn3sAfoaWyM33uuGuIEirCjZXNQQWlhO7nfVPtcD36GwEENzG18nagOmzYW68vsYrzpXFWMRPiQZbGIhD36vm_kj1uFyOof11oFBBqUmfydHE1OdxOgWzd9XBPDiIeYt4vfyT42D0b7Eyfe9S0fOtGrlbmCiMPhonnhFy8RwuGXHuW81lbii_l2LpISneuQNppbDr-FKjt98BgUwj2UpDR2-Ku5BLMRAjPzKeYCxNcb-yLs9kvMxn8tSHRDvI9UVHkKRaXXmuJMTrNPDUjlzP2RvR4fTpssDEr_v_IFjhE0cyVxxhBd9CVAGAYiDgoM6YhChqjR3vVANu6K%26ch%3DAQEAEAABABRt5nK8YRCgDtvsAvmW3e5juuNAFy2B9JY.%26v%3D3%26pg%3DVBCGO7IY5BCSXEQLCX3OJRIFGQ
+.netflix.com	TRUE	/	FALSE	1810490048	OptanonConsent	isGpcEnabled=0&datestamp=Sat+May+16+2026+18%3A54%3A08+GMT%2B0100+(British+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2a50f972-7c1a-4a3b-bda5-a9ea6547d689&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1770987055809&AwaitingReconsent=false&intType=1&geolocation=GB%3BENG&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1810490047	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSKa-X-XN_nxI3-SC9qGlskiRiQ58qgPSY.%26dt%3D1778954044528
+.netflix.com	TRUE	/	FALSE	1789575285	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789575285	netflix-sans-normal-3-loaded	true

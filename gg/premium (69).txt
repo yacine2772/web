@@ -1,0 +1,22 @@
+NETFLIX HIT :👇
+
+Country: JP
+Plan: Premium
+Next Billing: September 2, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: ￥2,290
+Profiles (4): 1, Rock, felipe, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	TRUE	1789495356	gsid	d1d1ae81-74e1-423b-8ff2-07cc7654c098
+.netflix.com	TRUE	/	FALSE	1802268454	nfvdid	BQFmAAEBEPPrrsaUBqnsAM-9WKvLYu9grAiUSET3NkZm3HZRuWuIlln3XM8sBYPGeMWzLbqEqPS3CusbE4_xAMLRIqRVI9NlC-s9yiEqBqoS8jDBDUfFyP9LHorgUCH8Vvx30LLaqV8e8Pl9PEyba7A3cQzQcV7n
+.netflix.com	TRUE	/	TRUE	1802323117	NetflixId	ct%3DBgjHlOvcAxKvA-a75kTkG_1dngCJ1SCPjIoo60jBUCPXu6s_pUGKS463kJjUIy1cHWKUj7nUqxstnQARljr3APMCPfRQn7sDkc7OSET5dQJYV67nZMKrV9xudjWx9lwXPXnormc0to1SFHLYxy0EY2-Chh24EaNm9dcHWRp7E9kXuspmiuHqXLN7Cwt7qHIBq8thN-O0L09S8uWjBSr6unkJs2SZpzOvR2px4ENy7ioZ8eBRN5YnAAQ7JrAyE5a9ivGYO0ilbwI4hT_4I3lshlmOBaMWNQS_GhsSWGm3qfAWH9UsjZwrFiuq6sBoiyFzRCPLAN4e2WpL4DYYrHQsu6dQ7G_VK3_xDrB5mvVyo-YCyCdS7nQ2IFMdcAaVFpKqvjcfzP1bzerIg1TT4AgYua6JioFyJY97wJGm4wIFGvdyeGAYAvX1IagikZnvhDTjuCHiIuDC9NB9X09VRiZ4-A1N8RgfePu5QqC6SNmIiwC8pkAhteiLee3WGnAo5CVs8LAlA2Sx49_SrsR25aj2a7XTv1Y-LBzbPlG8KONBkOtYtHizAAla03nvQVhL6iOWVv1T5suyQR34GAYiDgoMbmOSgeH16nPuIM-p%26ch%3DAQEAEAABABSoX-x3wZq7kXRJQO47hWkByBEBeMBkyck.%26v%3D3%26pg%3DGZZC4I4SQFFORGZ424JAV6JQ7Y
+.netflix.com	TRUE	/	TRUE	1802323117	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRDfoLeq2MH5CID16FSFrB1vp02t0uydms.%26dt%3D1786771116580
+.netflix.com	TRUE	/	FALSE	1794578433	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794578433	netflix-sans-normal-3-loaded	true

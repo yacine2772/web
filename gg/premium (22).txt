@@ -1,0 +1,27 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: ORANGE_V2_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Profiles (2): kenytv63, Jeunesse
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1815770983	OptanonAlertBoxClosed	2026-07-16T20:49:43.935Z
+.netflix.com	TRUE	/	FALSE	1815771047	nfvdid	BQFmAAEBEEU96ZuI9wzOtlg3UdilhMJgQ2LPNrBqq6-Zut6vlHWvJzudFrsIAD7jh5emE5V-ifCFjuQHUrB9J_3EcCuf5cwhHZenwQyX4107V5lKsz39Ztv1e69Xd0-USPUKy3Ea9Afi33C6OwQBH0O2GLNcdwQM
+.netflix.com	TRUE	/	FALSE	1789495358	flwssn	c5370278-b05c-402a-aa79-e1873f16198b
+.netflix.com	TRUE	/	TRUE	1817765286	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSlv5oh1JoAxuEl3FVUpy_ehvg-N_y8J-o.%26dt%3D1786229287607
+.netflix.com	TRUE	/	TRUE	1817765286	NetflixId	ct%3DBgjHlOvcAxLMA6fPlwRdrjzSkTaUJdee2F0PUJ2HpG1-PrSoCV72Ou-KbVIzjJ4tBckpfRNKk7pQUEnH7Bu2gFpKvblH6HF75f2Nd4NYAvpb3QtNVKGhaD5kiSgH-eb1DV5Blk04mohB7MfSE7M2l2xFes6iasrtC2prdiNFZPLsdm5LCq7JntVg7MYH5Njokuj08PcP5RdnK1ZSdQymuNaOTJf82zN-1txUIGANHO9zTnvMJGJVbwFT8jtoMiR6gaVdWMDfWms1V8Eu4KtfYGVseVqKnfoDZsL3Bfq2th1lTOZJDLIuyHpzLo8cxqt21OnZyZkxduE0DObnbFAWZgN2M-NsRFkXn92VrW5WNoIJkEoz1digN2IkAScbygZ_A28tbEF7V53MuDdrHFtCIoFoTuuUOyKE-Fs1tnm-zALCRWaBNKQUwznZOug2VU5FgxFOHAsU-SDrsvPNQDKmcRNbNg9JU2iCeznXGfySBqgx4BMsRZW6ygJgIhEHh4V-eroSLyg4S57V_Px2bmglsuMuSkVphswkqS5E4nFz2V1aj4TLfWF621StpGi0H3VHaQTRonkOxLUyfhCOLYdSYRNrd9Tlj1YEWpQbqyUbpf1-FHeeoxcYBiIOCgxDvfJ2UiXg245tuIA.%26ch%3DAQEAEAABABSM27-PmtZryJErocj1G_mDnclaxmtm3i4.%26v%3D3%26pg%3DTS2GBM2475FJ5FU2MEQFZPJ3FI
+.netflix.com	TRUE	/	FALSE	1794005286	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D
+.netflix.com	TRUE	/	FALSE	1794005286	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1794005286	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1789495358	gsid	8cfa67ed-9369-495a-9ffc-67839421a587
+.netflix.com	TRUE	/	FALSE	1817765287	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+09+2026+00%3A48%3A07+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=87c81510-3d88-4ad7-9efb-57df90252aed&interactionCount=2&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1784234984277&AwaitingReconsent=false&fclco=&intType=1&geolocation=FR%3BARA
+.netflix.com	TRUE	/	FALSE	1789495358	profilesNewSession	0

@@ -1,0 +1,26 @@
+NETFLIX HIT :👇
+
+Country: ES
+Plan: Premium
+Next Billing: August 28, 2026
+Payment: PAYPAL
+Quality: UHD
+Streams: 4
+Price: 21,99 €
+Extra Member: Yes
+Profiles (5): BIGPOPA, inesika, la hija guapa, Nines, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1800519362	OptanonAlertBoxClosed	2026-01-21T08:16:02.623Z
+.netflix.com	TRUE	/	FALSE	1800519366	nfvdid	BQFmAAEBEFNdnq53VBKewae-rqAJSbJgnhADY4qPdRBm7bYeReqEm7UxQ80dQ7WXZRy7rHu6cb3oLmyZ_WZR1eIdBA-ie_0wOBqVqPDHAwhVxBWSMmZx9IlqqRIj9rRzdbkiPX99Tl0_YRgTLOxIucWEPldss0JZ
+.netflix.com	TRUE	/	TRUE	1806083213	dsca	true
+.netflix.com	TRUE	/	FALSE	1811340641	OptanonConsent	isGpcEnabled=0&datestamp=Tue+May+26+2026+16%3A10%3A41+GMT%2B0200+(hora+de+verano+de+Europa+central)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c9bb337b-79ce-468b-ae62-32cff7e3de96&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A0%2CC0004%3A0&crTime=1768983363005&AwaitingReconsent=false&intType=3&geolocation=ES%3BVC&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	FALSE	1787580641	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787580641	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1787580641	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	TRUE	1811623024	NetflixId	ct%3DBgjHlOvcAxKHBCD_P1cwMsT3jLzkZloioAyO-qhXeuCL7q7oKmjyrSt9wU6DHb4ki4VoNV1Hkp63c2RBdbfh_aEz8xJ9IhB7Xz6EWY37Riger4Pdcq-9HHS1MzhJXK7gIoiku-ufeS_B-OT1HYpEp3nMcGN1s6bZW2R9i7ybB4v1o89zpTfv6FdfhVOsay1D9NszU3LeSur6yqRlZ3A3cDgNh4Bo_fxkVFHERZWmHH8Kz3f1VbLZFS9twT7v1vRB7Y23Gtfm3eXiFLnxroFy_AR8Xfu6F6MEWoLStVHPcySG5lWzoFx-vfGPxePT4ltZc-a07-U7NZxyTyNYmTzJynwp-LPK_MiDNzVlqEg4Y2HJ6gWXrymvycQUNfsWNhkOfgIiyjNrjf7AR1IeC7GY9BsVmOPq7Y8EVFIxMbQsVhNGiq6QMlP4qKB2YeB-YrDLCnlLJ47kIPzJNv7gzSPQbNgo-7oPi9xpmN46wGG9ZF_gL8Av_um8V3NEbu-vBIhyJYdjSMTtspHKsyL4S96C73fHji6en0-FT2K_G9XX3owp1jCJBG_OYi57Qhja1Zog8CQhWTLa03BOHLl4jNO4d2_wM64HW5qO7rKdu0pQx2je3cstJBL9Wll_v-8wz2oFprLfmO4wxJmwdMcTHBXpdUzPlRhTjyf7UNMH_wPL_KHqSgnZuZQSBy9IJTVWComITRgGIg4KDI1tr6MJvura6LiSbg..%26ch%3DAQEAEAABABRN1EX6EmLGfu-M2epMiT-VCsEW2RW5kjA.%26v%3D3%26pg%3DK7NZLTWZIBHQFMGUZ7UIG6CXY4
+.netflix.com	TRUE	/	TRUE	1811623024	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQRiKjMY0Xlsmy3P9VdRYK3V7qvGwx55Sw.%26dt%3D1780087023803

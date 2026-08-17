@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: ZA
+Plan: Premium
+Next Billing: September 8, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: R 229
+Profiles (5): Ndabezinhle, Alwande, Ngcebo ngesi, Othandwayo, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1789575285	nfvdid	BQFmAAEBEBR81bbeqfvpFeZZr4cV9oNgkbfbUMkHfOKMAbZ4u_M_iIAz0B96EpBIkBNKRos3gvP5rcaTgGMrhPMXIuGjfP_9X0sLvSv_P3S6UuH_p7RvEGYtHIAOiuHbPRdzg7ybjpm87YkvyU4Wr_IvDPmBddLQ
+.netflix.com	TRUE	/	FALSE	1789575285	profilesNewSession	0
+.netflix.com	TRUE	/	TRUE	1814162991	NetflixId	ct%3DBgjHlOvcAxKFBA4worpk9FvGGyFtfccM_MnrGXaXci7WKrzR94wye_3xY1Ryc-SYMAaRVCAKhk3IG-mOBEW2aqiAayt78JLUomo-zGrhc_VSkp5n8xEIttXDwhiiJ0i1k8UPBX08wvbdg-yWIMDS_HuLIYT4ftvEH3f_5UeUJGkrOBUsVZK0H6AXeVFfcdmEjds7KtzMCXkPkzUBlso8BDHAyhura0LxymBo94rJTTtpAzS-_Lj3zlG43QsverTIoY-ZKtn-GOIefSTz3YDlOY22ZgTwpx6lJXNJKeSiQ7Yckymx1i-rg2hf4A-eFu0bDrHi3Yo_VxuCDZC-er_1BF-3a6k7I3k0t3jM5XnssSdPq5PDCeIANXckcNnbgUbI3MGlGEv42vqLPdPttY7K7cEoUcwnxT0KTeRKadbOjPkU9PFn85dA1NEulJ6mKVwHE5UVjrfLfij_OfVLhH-X4gO0pPSqhgVkrjw5k8-aIk0HdFqb8L5Ob_GUZI5TjI6d2_bl1RF8hJQ1R2Hcg7necftj6dM4xcNaVnzskAsKSCbLrg_B2Eogz67X9JntqmMhHRM8siqdxj9rOtnJQ9zG6xNxh6l75sqA8gRSRYJe68ZugPUmWgpuwp2lFdViuyugEuHZUw1Fdko-gTcb5OAf-F_wiKqIheXYzMyNjn-66_1lY5l7Qp-IDSO4NnmIyggYBiIOCgwd3N7uibZzjIeFknk.%26ch%3DAQEAEAABABQl-dEfQffQtwPRHlvG0jhhoWvoYaXOZy8.%26v%3D3%26pg%3DTJD6OOWMFBBOLOMONYB3V3EVRA
+.netflix.com	TRUE	/	TRUE	1814162991	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQo0HVzU-JCvRHts6OcRl8BYNHvkUgqOxM.%26dt%3D1782626990497
+.netflix.com	TRUE	/	TRUE	1789575285	gsid	ace26acb-77c1-457f-92ce-1274748b5e5c
+.netflix.com	TRUE	/	FALSE	1789575285	flwssn	af2a7727-eb93-4885-a75d-b3f0178b4ae2
+.netflix.com	TRUE	/	FALSE	1814173374	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jun+28+2026+11%3A02%3A54+GMT%2B0200+(South+Africa+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=8761bd69-9ef1-4a73-9b82-a104dd1a7124&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1790413371	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Atrue%7D%7D

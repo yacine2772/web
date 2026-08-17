@@ -1,0 +1,25 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Premium
+Next Billing: September 1, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: 21,99 €
+Extra Member: Yes
+Profiles (3): Rom, Daddy, Dlano
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1812260252	OptanonAlertBoxClosed	2026-06-06T05:37:32.427Z
+.netflix.com	TRUE	/	FALSE	1812260342	nfvdid	BQFmAAEBEKml65oWtfkro9sDPeet_Htg2Iu4p0dyn5r0eCr85MqQsjYtpInEwaJ6DP7GNFZxFFQRCXozx1woUbd0D69ho3FcSCGvhq73OdLH4PUcncWda3dPZdvNMRQ0TanAscbjPSt2bPvSTJZoYASkli_exDtk
+.netflix.com	TRUE	/	TRUE	1815487349	dsca	true
+.netflix.com	TRUE	/	FALSE	1791143981	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791143981	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1814903981	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSqAML0UytZn1Rae-qNBN7Ag0cm7Vi8oKc.%26dt%3D1783367981354
+.netflix.com	TRUE	/	TRUE	1814903981	NetflixId	ct%3DBgjHlOvcAxKMBGLSqM2wtAeHRtCej478JzRf0gc6Qr2KOBHYyniq99jjxDZc1QDarPqYfRmG13f8PogZdRPCKNWuvnlzdcn8EEOevfHBUyMM_bjJ8qrFLTFE89UhZ1kSZ1QxSIbA7JGWRjPRvjXZnJxDoafnySBUOIhI2MCZ_SCecB0xomjF4DXASOJDhP5eR0FUYlznng83DMAnU15E2sbIr9P9Yf4z-mPUCW_ab4RfVEuTrM1BHnuf-2W1p3FVeV8adfInXwqI88KSbh3g0YjwctbVlpbtBxsTgKJ0RyhJm5LXj0xhBP5td4TMnFjHWA7CFb2e7GYdDqCdP9uFU61ZKUqy6k3SvmAnQuChOzTIj7NaANUcTNaoC5bW1HnvNeaxhzPeZVA0IZEy53Dsxr3DyqFzAUEqC_Y14XE-H_S8PmsqI_9gHznRV_8Yt9hADZP73FqkDFemZkMhWixHI2WAjWlyoGVrfK-mitlgfV7fMdyQ8v9vEtaFXi8XtNmzFVlzvjoVXTTYaOKuOIWGKdvAdrERmZ6yxXgg8fWqZOjiZqhEiTls4wY8I61l-yv4MUpv33krYykE5dM5Lr27n6FC15ebzFGeeFv6spYPV5HBVq4_13ILKVDOQcyDefmhgt2nS1mTqF2TRkGHdTiBn6lDtsl4rLkB09I_sQkYJRz9bLDTpjLzt-Si9sUtN3GbQrVRzmY-GAYiDgoMOTQSjyuK9e4KQ7hD%26ch%3DAQEAEAABABSlzisDdpwBSS_Xu22-59UMW2Oss71uaJg.%26v%3D3%26pg%3DTIYGPCOWURH6JKEKMW22PQ7X4U
+.netflix.com	TRUE	/	FALSE	1814903983	OptanonConsent	isGpcEnabled=0&datestamp=Mon+Jul+06+2026+21%3A59%3A43+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=86cb8161-9805-4a61-a897-67a6ff9fdcd4&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=1&crTime=1780724253037&geolocation=FR%3BIDF&AwaitingReconsent=false

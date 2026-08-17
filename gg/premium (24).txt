@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: FR
+Plan: Premium
+Next Billing: September 1, 2026
+Payment: FREE_ILIAD
+Quality: UHD
+Streams: 4
+Price: 21,99 €
+Profiles (5): joan.mouttet, Claude-hélène, noa, Perle, melyne et joe
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1789575285	OptanonAlertBoxClosed	2024-12-28T17:05:30.908Z
+.netflix.com	TRUE	/	FALSE	1789575285	nfvdid	BQFmAAEBEPiZJdWAb62f6AofE81oyt5giV6McNib3T2sYydSfJW1jMZJm6f6pZwXSGBKfuO9yL1BotJukZ5fFKOZ7LqutNT_wYzfFxd_AezqiaDDv07swWB_rrbcC3E8OlPhkaNBf0TNBcQm8Au9SmmsVfaLdwQW
+.netflix.com	TRUE	/	TRUE	1789575285	NetflixId	v%3D3%26ct%3DBgjHlOvcAxLyArsfxe1z0s_NcPAqHC2kpcb7i71WyvgiqvW3y0rkjl6g06-ncsfdKs3zH-V0VjjqEghL7GaCwimiW_RU62hkj_74VtatY2wNyXXUoY4j9avsZdwgJ_Xx7X0eDgMW8ggFEMBBB5-q3-J7Y7yIlAWE9uF1T9YXhliip0GFRK38rxM2oDh18vQmI-WZSBr_8aeiZHbhwrxnaIf8k6xxrxPJ9P7Hbs2n-Ml6_WcVbfLRrnMWKaaC1sqFK8LHr4Yr1GkewmSqQ2aYKXEqox8hAiRJu4Rj1VAx8qFkE09RLT6__9OHZTYjQv9Pc9UjCd_Kcr2KBzpZEbUw0sQnFr9w_L4R5Fnw525Wek7a-NrKd0G66FzrD8SmnDLrIM2VKrCJeCYt51Gl-MzedI4QpkQx0M5Q3GXV4-3VbVgodB44cIgvV48yMItRGRjB9ILB8Cf9RJ4WvgpSoqS4HA0MiszD6a9GN6jg4pbZeeuJhrQaf9x2_6S7xxgYBiIOCgyIU03cElyP3pRkfyQ.%26ch%3DAQEAEAABABQxJu8gMGA7V8XB-Ycb0G4qd8hcTMMa6eg.
+.netflix.com	TRUE	/	FALSE	1789575285	OptanonConsent	isGpcEnabled=0&datestamp=Mon+May+19+2025+23%3A31%3A03+GMT%2B0200+(heure+d%E2%80%99%C3%A9t%C3%A9+d%E2%80%99Europe+centrale)&version=202411.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=2c9dc3c2-f1b7-4144-8147-14ecc05f8ff5&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=FR%3BPAC&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1789575285	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQD8LxXMi8ZYHOoHpNyH1StmsGfu3FVgIA.%26dt%3D1747690257202

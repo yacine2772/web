@@ -1,0 +1,25 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: August 27, 2026
+Payment: UNKNOWN
+Quality: UHD
+Streams: 4
+Price: ₹649
+Profiles (5): Noval, Nivo family, Mohmmad, Xas nivo, Mehvan
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	TRUE	1789575285	gsid	1891f26e-b7b0-4f57-a482-52f9f29d86aa
+.netflix.com	TRUE	/	FALSE	1789575285	flwssn	5b1de400-73af-45db-9e31-e2318902f5f7
+.netflix.com	TRUE	/	TRUE	1799687447	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKRA8H1bc8BSTOAMekMt1SWAoIGuAIIukl6t7guqKgT3o-JfXB75UJnIpglKOue0nLPFj0zTyQadUWDXDCN4HDoG4ALOr_zBUqXUilr9yROO-WvB7oUkc4u3UVQGZGjb5GKbsafz7Mtb4GgzI2vmHhlROdJcyboekRzL-HUvVki3d2L0xJYY91Qh_VCZeIGtamjNEXOQBAHg7vOSR8ky5Qafr8lhRgTyxwx0NVmGgR8VE6GeB0T29jjmlX2wnUuHXFpiyaJMV6AttYa7vPhUMlZ_xR0vBf4Ph_cUJb56Gltm3UZA3q0Ov2rjK-pNFzV8g_Vw08p7TcFP2VK5U5gn3uiYunz8TWiyX1BIlOnQGsJ3gu7YbSoSh_JRzx5UEsMiIei8lZA0mRpJJFwKRi6bkYRZofwD9u60WsjlnaAuZ63UB42hjAmQ_NGSaPWdbR2GVMg4t6KVYzBAAbWzBbEOeQ90LNOBKb0NJa2kC3T6tQirK3Gw-7jVXa_2PFBCXgcDETkcKzmA4jVyKoQKpwOnlyVj-uQGAYiDgoMxIbw2d62LLfVGYyY%26pg%3DKBLVASOI4JDEXETVDWJBVHVE4E%26ch%3DAQEAEAABABTiRUb2oHcN82BPrYqHHNqiOLgDYbtwooQ.
+.netflix.com	TRUE	/	TRUE	1799687447	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABRDz2umdV_LNqv6BG0wQI-9RsVnUlV9v7Q.%26dt%3D1768151447859
+.netflix.com	TRUE	/	FALSE	1799687816	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jan+11+2026+09%3A16%3A56+GMT-0800+(Pacific+Standard+Time)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=4e9b6ecb-fec5-4414-852e-1a1131c92227&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&crTime=1768151417009&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1789575285	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1799687447	nfvdid	BQFmAAEBENGbZXnN3lzT_o052TD_2bpgBXQruIjWjzCctZVgMfahLh-L_jXmLlNo2dn7Oy3NYvmuSO4_q27mmpDZqxVerCcpWeNB3Ydf_7xhVLBlqEZQeF2lObBcQp3rabMh-Fqy642GKMIAKRFBEeKPjzAiE5GH
+.netflix.com	TRUE	/	FALSE	1789575285	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789575285	profilesNewSession	0

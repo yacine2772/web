@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: September 14, 2026
+Payment: UPI
+Quality: UHD
+Streams: 4
+Price: ₹649
+Profiles (5): Fenixx, SADIN, Unnikuttan, wrath, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1796750172	nfvdid	BQFmAAEBEPj-4IUJeMJGyI24VCBjOlRgtHmeqlSFUR0cojk-tn3tDjvqYamJEAYi7MCn82JcKjZvkTSFyXen8cJIdvEoOvgz2KZ4LJunAM-Xjy6wricSRWl9vXIlL7WTt0V2erR_9FOvKZwQhuWwQY1v4wgVh-Uw
+.netflix.com	TRUE	/	TRUE	1797576162	NetflixId	ct%3DBgjHlOvcAxKEBMjZU-l38EzWOGvI25LlF7GuysiwnUUbcx6ysDoWWyJmzFyr8JZ99asl5k3MThw8ruCx7l79AMt-XefohdoSDO9OCpIC6zmM2bHJs7rzJc9jbAYTOP20tstuQbB-xA7QMLjmz6CnaA4rteFNFNF2Bfxhrqfr-4s-E56rSFMxDpkpz09bIZ4xMgYaYvo0u7-UQzinlu6vTCMhq--i1o91xWsp2kF1M6jbsWu3BB50GvXbKgd2Pcg94VOcaM4RnrXErt-Kga5qcxhCmJkU0CCStVA9N25egai5pK-lzVSNmmYY6dR-Ubyn_HxnWkHFKqSOqN1WxylocnIGaNBcZts2WCDGqQEPgMtI1qcUV4yZwU77QvEr3vn11VqW4Nh3Cx5ESlU5nOf_4HJOg1K82Tn72ObMX1ZM6vtH9tIxOHov-AcUvP-PgRJvtX6F2Y2WhHmhWAEQx0s_L4SQ_rhkjj2wD52UyqKPHFNtARVVLcjrjpPlK-uMltGh06Pi--QJx_XRlqvp35SGD2R1qk04hALJuL0jvKvARLnr64BPmtfDJvG2SStVHJFOAGXBbBoG3z2RmZYvRk3VGO6gy90j-YCavL7wODUePNuabqRbpvzjs0utIZ3pY4zU2MZwQz3AW1oqI16j4g6hg-jyxWJU1jymnvOtD2yi44t0TegIFafPu9eIowOY9RgGIg4KDE2FuEy86BjPqcNe1w..%26ch%3DAQEAEAABABT58ei9sLBk_HLkJ-QhRMTXgr6gA6LN3bE.%26v%3D3%26pg%3DPXKKP56JQFALJJUJ4MLLSJK77A
+.netflix.com	TRUE	/	TRUE	1797576162	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABQae8bYfR9lLw1ERq2ND8nfskTUA1MqG5Y.%26dt%3D1782024159497
+.netflix.com	TRUE	/	TRUE	1789575285	gsid	07df1808-da61-4375-ae45-32e12e313175
+.netflix.com	TRUE	/	FALSE	1789830010	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789830010	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1789830010	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D
+.netflix.com	TRUE	/	FALSE	1789575285	profilesNewSession	0

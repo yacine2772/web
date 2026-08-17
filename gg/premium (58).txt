@@ -1,0 +1,22 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: UNKNOWN
+Payment: AIRTEL_BILLED
+Quality: UHD
+Streams: 4
+Price: N/A
+Profiles (5): Cweluch, Kennedy, MATIAS JUAREZ, MC EXCHANGE, Mau
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	TRUE	1817759137	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKkA5YsDW_F_FZDw425V5sM5hCbMbP_7oPUOI9NQJKvCHA2GrnEGqw5dBeP8dGuE3mT--Gbt88YIohGvlJzVANd2W3QOTh-t8hURNSBGgUczAym3NkF-KJ-uysNryflsPsN9sGmytxgtcT0LqDxpsg1FO1u9RAy9zkt7cuOoGwjINxI91tnt0FgIHh5DOCoCSIbGXx3Dz8WyU_dhrf4X8xOhX31f4Hhq2NgxNLMWZO4dVTKXutN0717XG9NjVDXgt0vxFKsOvcKLOhSEeTcDgjrp6RjP5jArgLoRFGFy0gSN1pGozfxYjNOw-aLGz7TsNlHXBOpU--_5fTe1IvdJyC6VD3a4j_RzZihm5sumI76UyU5oQGxNtgKlZsr0ldtP7AceI0IdMFwX95VVmOGQLdE0wt0EwS6X-2zsGN1Pdg21dtanMOHVcnv8Hq_zN9dNRSv3FrSj6t1xZ1trqQpsxEIEZRT-kagDkB8t6mVz-0IxhFDU9nnkya_8N7L30gqe3MynH22MbQDRbY6NexDMR-bHL5EWqmH6RGvZhLtwDsxAjd7bkv6cxgGIg4KDHHJ_IyF9CAH7eaWAw..%26pg%3DXP5F4D5URZD65GHRLRWSTNSW6I%26ch%3DAQEAEAABABSerwm6Ki_KCy7DrVvJg2gHdmp8CdLro_8.
+.netflix.com	TRUE	/	TRUE	1817759137	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTO5OghvloGkZMgm6A38N0Cmbl7MMNexGs.%26dt%3D1786223129158
+.netflix.com	TRUE	/	FALSE	1817759137	nfvdid	BQFmAAEBEKYcIGIjJ2MCZAavIjPpFoRgkq8Nr2XwP_jQkulz7VnJ9txWfAxXqwiRNszK7ohfi1JyoEHVCrsdeRxRatk5Pzyfw_lv-LG5eYAJ9lKTfkQWA-gzmyI1zMEZBC8X9Cr0oqmfPy-6r_r3i7CF2AH_1V-l
+.netflix.com	TRUE	/	FALSE	1817759188	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Aug+09+2026+02%3A36%3A28+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=98d9278e-3994-4edb-859f-d4da63f22ca6&interactionCount=0&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1793999188	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1793999188	netflix-sans-normal-3-loaded	true

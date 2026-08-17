@@ -1,0 +1,21 @@
+NETFLIX HIT :👇
+
+Country: IN
+Plan: Premium
+Next Billing: August 25, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: ₹649
+Profiles (5): Rittwik, সখী, Monalisa Maiti, NEW, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1800284068	nfvdid	BQFmAAEBEEqZf9Pm3fb_4NggbZ8S3dFgs_LQK2FMVr3DyX1DXR4lDpd6CA3v7O0-fjr2KYDsABK5h0HMJINkcWIgs1tqb5V0sWPVCK7MlqWHe28NvG9BEZdAcSeJEuCXROUwBPd1YFU4cNt08SEq3AvkPY2kBYit
+.netflix.com	TRUE	/	TRUE	1816280328	NetflixId	v%3D3%26ct%3DBgjHlOvcAxKbA94uD8ZN8UqsHyhOYapPJlWJ8wFobKlll4mKlkfvXkJL9DNLFgHOIhjhzD4aeHpeuqNLygH7SLhEQyJL7D4AeggSs9KfiRru-rZWvKvYw5uXgJoJyeG1LIZ-y9b87_Y8PmQnr1N1uOMi0ix8xXgu8k7O7vKv1gVmUWK6i4tjnFEsXC7mjWv96-EjqZ_Grhr7Aiun5N7LEUG7Z8XtKH7vQzrq4y0S6yUYEbKQZvwJ_FSQnRam2BJzjUix1AEsrPUsk832SA_-Nd4OIv9trBkGh_O7ZvvrdlevqbXvibMotDRNOZye4snATSzqyFwddu5MbIjVTvn2b1HDCINBhzYM5boiR5PxwfgsGon7ZXbkrACu_q307wy18SOtlsWlUjz32VzkIfNS8NOoSBLMrxPFL2o9lmKPMsadOPBV_cYM9mofQuxNOSnMAG8tFn6u_9jnixE1sfWUspobQV5NzRuUsCfCT-iP5eYOhGps0b0yj-PKlaSIV-iXD7CcjpRWYHXei4R0LlIvpQfK2E0iyUpdKunUL-21yZrX38yRPRgGIg4KDHlrWXqbxwlB5c9W3w..%26pg%3DUCMWWMV4ONBQBOY5FLUXYBTPOU%26ch%3DAQEAEAABABSqqZlEMbN5mIB6Z_Wz4HXlBu42np8tQdY.
+.netflix.com	TRUE	/	TRUE	1816280328	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTgAd8njsH74PeIhhW2HZQWegk0yJO03iY.%26dt%3D1784744329723
+.netflix.com	TRUE	/	FALSE	1816280392	OptanonConsent	isGpcEnabled=0&datestamp=Wed+Jul+22+2026+23%3A49%3A52+GMT%2B0530+(India+Standard+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=7787f689-39ed-4f3d-98af-321b0526e980&interactionCount=0&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&isDntEnabled=0&prevHadToken=0
+.netflix.com	TRUE	/	FALSE	1792520392	pas	%7B%22supplementals%22%3A%7B%22muted%22%3Afalse%7D%7D

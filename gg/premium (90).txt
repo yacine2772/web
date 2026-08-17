@@ -1,0 +1,24 @@
+NETFLIX HIT :👇
+
+Country: PT
+Plan: Premium
+Next Billing: August 24, 2026
+Payment: CC
+Quality: UHD
+Streams: 4
+Price: EUR 17.99
+Extra Member: Yes
+Profiles (3): Gonçalo, Lena, Kids
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1798936980	OptanonAlertBoxClosed	2026-01-03T00:43:00.977Z
+.netflix.com	TRUE	/	FALSE	1798936979	nfvdid	BQFmAAEBEJBQ4dOtfz_bxjEXM2Kd4EBgNiuA9bo2Vinxu0ui8BREH2qNkiNI6q0UsiYmd6RstLaWURbwxdOJtHQWY6FXnuf5KS8VFkPjb-xTw9YuXWAdGUQTO3RdqDGkt6CsMkIdxaRMcdGvWWNMJJ3OhRPrjigO
+.netflix.com	TRUE	/	TRUE	1815953589	NetflixId	ct%3DBgjHlOvcAxKLBJLCrWYZ33D6NatX0A_BZkqwvI1fm_BSdjEQHIc75V13FswQSQPCMdF_f6JwagBD4kgr-wz2PncnkakZadjdbUEnDUaVG8SyShdpPVrq-ajwQXK-NlKZ04tE4wA_Ggwf-rI8FzZ0-jemYLowSUrLtCwaUEv85riwDd9NY1Q_UcjJ15LBVhpLNSQWP0MzcbdYFh_YLXPE3osynOv5EdpxD6qCiHJ-RKU9OlP46rkOWX5f8VcguIu_IZiuVNjTJkhL3C7Gr2cpncjvBxxjyC4WdcSGRftlYBv9F5ErHxqOKWTZT0zWaV62QbnhXTdDtpsQJaVOl-SH3f2pG1o798hl07DnRghmlLqnqZ3Migdc9VtfI6bbCY1ApXBdkmrua_eP9qoL7SRBtfdyOIB0SueSHHp_Y9t8kzO_NVdsxmFoG56e44Upjf1UuOYLVpoREiqrhgq6nygZ7lD8a2TLJjlVDd3xo1Td0hp4H3E1J4i2jFFQJF_9yDUx8n5wcqYLd99Dcw1f79r3GcRiqQL77Q4QKMMelmkyaz92fx-Ttp-oHbjkbQNtxJdXAeaWJ48R518J1xPTpJcN6U9rGL5W5IWIuoVxw32ezsdJ6dfa6jF6qkLH1Se9n5Sk4Lk-8iktUIgzzLEjazqEjoFQ-Vu9dkf3j9OOCM8_4BE0TRN3BGeIF0r4W79lCrHB8j21iKIYBiIOCgyw4ZyICelXDVcBQXo.%26ch%3DAQEAEAABABSEZ64XkYDKOyEb5oyOdkw1n1eo0FP2yo8.%26v%3D3%26pg%3DF74AH25Y75BOXLVL42GTA5U5RE
+.netflix.com	TRUE	/	FALSE	1815953591	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Jul+19+2026+00%3A33%3A11+GMT%2B0100+(Western+European+Summer+Time)&version=202604.2.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=d20bcb10-59e7-4389-a491-139610a1a923&interactionCount=3&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false&intType=1&geolocation=PT%3B15&prevHadToken=0&isDntEnabled=0
+.netflix.com	TRUE	/	TRUE	1815953589	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABTH_bGOVzKUaW8bgx9A853G_d1BnaKtbnQ.%26dt%3D1784417587860
+.netflix.com	TRUE	/	FALSE	1792193591	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1792193591	netflix-sans-normal-3-loaded	true
