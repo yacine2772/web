@@ -1,0 +1,42 @@
+NETFLIX HIT :👇
+
+Name: Lucas
+Email: servio.miranda@gmail.com
+Country: BR
+Plan: Premium
+Member Since: June 2023
+Next Billing: September 13, 2026
+Payment: CC
+Card: 1886
+Phone: +5562984012820
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Hold Status: No
+Extra Member: Yes
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (5): SERVIO, Aliny, Miguel, Aninha ~, Lucas
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgiqv+vcAxLCAfGLzeLapwfIhXfzrlU2vTrYWdVtiMOxa9xwlEdQoc4xNdaT8K/CcWDoZyH0ugGkKskvEHZnB1ddxeEVVWVmtGw6Algw1pmYPbp58ioMZKorAoR088wQpQvm6mW6PQ1RlMUmR7b89VvZgjdKwf4rbiMlLFzgCbo9c8RcpQU0Pu/bPIAoMDjMmw8KrGPks0Qz8krdo7Xy+T+tHA6x+8KB3O7t4gkA7k0r9inT8lUqzX+RW3kBjy3jAKPQsM3IAdCG8g0eGAYiDgoMd23+r7OuOm9nQc4Y
+🖥️ PC Login: https://netflix.com/?nftoken=Bgiqv+vcAxLCAfGLzeLapwfIhXfzrlU2vTrYWdVtiMOxa9xwlEdQoc4xNdaT8K/CcWDoZyH0ugGkKskvEHZnB1ddxeEVVWVmtGw6Algw1pmYPbp58ioMZKorAoR088wQpQvm6mW6PQ1RlMUmR7b89VvZgjdKwf4rbiMlLFzgCbo9c8RcpQU0Pu/bPIAoMDjMmw8KrGPks0Qz8krdo7Xy+T+tHA6x+8KB3O7t4gkA7k0r9inT8lUqzX+RW3kBjy3jAKPQsM3IAdCG8g0eGAYiDgoMd23+r7OuOm9nQc4Y
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgiqv+vcAxLCAfGLzeLapwfIhXfzrlU2vTrYWdVtiMOxa9xwlEdQoc4xNdaT8K/CcWDoZyH0ugGkKskvEHZnB1ddxeEVVWVmtGw6Algw1pmYPbp58ioMZKorAoR088wQpQvm6mW6PQ1RlMUmR7b89VvZgjdKwf4rbiMlLFzgCbo9c8RcpQU0Pu/bPIAoMDjMmw8KrGPks0Qz8krdo7Xy+T+tHA6x+8KB3O7t4gkA7k0r9inT8lUqzX+RW3kBjy3jAKPQsM3IAdCG8g0eGAYiDgoMd23+r7OuOm9nQc4Y
+Valid Till (UTC): 2026-09-12 15:18:21 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1817692007	nfvdid	BQFmAAEBEHm7RQteHGybW1q6-Zur5Yhg9IBRG7oflZFW-neqvjGztqADVQ_ibnBzZ9DNePh-RZ4s_eJ9NyNTIgKCiVw78MymTp9PcqBbpjPMULtDXfuzPtZpDFtSd5ttZminiCwG5UU71GGV9E1JiKHv7JiseQ7K
+.netflix.com	TRUE	/	FALSE	1817691961	OptanonAlertBoxClosed	2026-08-08T02:26:01.280Z
+.netflix.com	TRUE	/	FALSE	1820820285	dsca	customer
+.netflix.com	TRUE	/	FALSE	1820262037	OptanonConsent	isGpcEnabled=0&datestamp=Sun+Sep+06+2026+17%3A20%3A37+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202607.1.0&browserGpcFlag=0&isDntEnabled=0&isIABGlobal=false&hosts=&consentId=6f1ef7a6-39d7-4ccf-a0d2-23a20f3eba3f&interactionCount=1&isAnonUser=1&prevHadToken=0&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&fclco=&intType=3&crTime=1786155961700&geolocation=BR%3BGO&AwaitingReconsent=false
+.netflix.com	TRUE	/	FALSE	1796502037	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1796502037	netflix-sans-normal-3-loaded	true
+.netflix.com	TRUE	/	TRUE	1820304307	NetflixId	ct%3DBgjHlOvcAxKDBNUC6YwFa1kJkvcK1b8F45II_anWOjoWHjPLL4fflvdYvumHI4EH_0rJ0jbXq0SMvBJmurod5eq6LzHMorWKBG4oPyAPIl0pbMMpVlC-6-au6C5rO1kdVI8f21eDpJxdFTFfGD6zZ7YzRC-kiNPivlvaUvPs5o2zLdCagMras1KT9BQkuc_LO0_nSEn1xYI83hA93ulg8NxuNS5a6-BXPI0NSfe4xHei0O9jb36R_0Dr8eEw4vnw1_gubSeOfhrCaLdWuGLpiH3oRH9RDIRMRcQg8uqB2FkbZdhNd2Fw44l0TLhKiI8xwZD7Mg8k4akVXivoE2m5eNpuyzA1BKJbAeN0kfeMyPtUe0qvTncupmJdAzFKZJlnP2BlempzLJhj6q76RX8O2FfD9A_sm8l0SFZVTBm1QuoS8hbhtrHIiZ4s_eP2MwnZ5LFLbHpVWsKU8aBLrPM4islADPXDGrK2ysg2heKHlkO718MF7QAVU8HiFOPk3WAThVLg5KP-vCVfTSHBh0IQ_xkEFPkMnmuE_czKsTxxd-3Yx0fwMzsD386qvAuedn-C6bJUVHoXpwsgIw9f2IITaVlfJetReyl_hM3Bb9Nx35JwWDg1UUXK65zIJO9IbP8YVFvfw5CopVmfX-J6FnB0DG_7KKVRu_EwwEFfziqI3oONkrXE4d-EPVeZi0S6GAYiDgoMzSqg_MFWTn7XOoWk%26ch%3DAQEAEAABABTtSzmm1iBlm36HzPTbRXzfEnksJeoCtxQ.%26v%3D3%26pg%3DYZKWFX5ZXJGFBJI7LRMVLMAYKY
+.netflix.com	TRUE	/	TRUE	1820304307	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSZjTm3J6ze2E-HZah77Auhyrjjne0okjA.%26dt%3D1788768308193

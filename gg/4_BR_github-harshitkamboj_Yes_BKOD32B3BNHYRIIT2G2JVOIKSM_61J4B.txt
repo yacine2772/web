@@ -1,0 +1,41 @@
+NETFLIX HIT :👇
+
+Name: Thalia
+Email: 09edsongaldino@gmail.com
+Country: BR
+Plan: Premium
+Member Since: April 2024
+Next Billing: September 15, 2026
+Payment: DC
+Phone: +5593992268374
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Hold Status: No
+Extra Member: Yes
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (4): Thalia, Ety, Edson Costa, ketyllyn
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgiqv+vcAxLCAWXyfZ0eQ7FaeLOSd6Tq1XmH0qZBHQ6D//JjGjbNJwMHryo6KDNPEpjRrL4xZztzSZXamFOZtMtFlK+uouAOva15VwonH1PbI6zJhdquVSL19vYzxoWJXCFxQlw9igQHkNCTXecOWwvEEgoYDSennmVjGEBvpaTujJc45Vem86JJdMoUWzVv8TlUVSAP6XOEwjAs+/TjSiy75lD304u3I2meyyHj3dTj6z3YzaTZ45jW9+gR0NdYkt94oApj6YpSilvgGAYiDgoMKm2f3LcNWoTgoLe/
+🖥️ PC Login: https://netflix.com/?nftoken=Bgiqv+vcAxLCAWXyfZ0eQ7FaeLOSd6Tq1XmH0qZBHQ6D//JjGjbNJwMHryo6KDNPEpjRrL4xZztzSZXamFOZtMtFlK+uouAOva15VwonH1PbI6zJhdquVSL19vYzxoWJXCFxQlw9igQHkNCTXecOWwvEEgoYDSennmVjGEBvpaTujJc45Vem86JJdMoUWzVv8TlUVSAP6XOEwjAs+/TjSiy75lD304u3I2meyyHj3dTj6z3YzaTZ45jW9+gR0NdYkt94oApj6YpSilvgGAYiDgoMKm2f3LcNWoTgoLe/
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgiqv+vcAxLCAWXyfZ0eQ7FaeLOSd6Tq1XmH0qZBHQ6D//JjGjbNJwMHryo6KDNPEpjRrL4xZztzSZXamFOZtMtFlK+uouAOva15VwonH1PbI6zJhdquVSL19vYzxoWJXCFxQlw9igQHkNCTXecOWwvEEgoYDSennmVjGEBvpaTujJc45Vem86JJdMoUWzVv8TlUVSAP6XOEwjAs+/TjSiy75lD304u3I2meyyHj3dTj6z3YzaTZ45jW9+gR0NdYkt94oApj6YpSilvgGAYiDgoMKm2f3LcNWoTgoLe/
+Valid Till (UTC): 2026-09-12 15:18:16 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1791570709	OptanonAlertBoxClosed	2025-10-09T18:31:49.714Z
+.netflix.com	TRUE	/	FALSE	1791570784	nfvdid	BQFmAAEBECmygpTqmP0R7kkLj-UfkjNgqP37B49hCdUv5DZpxdaMo_Oruu2PtTDthCBM4LW9tynieY0kYy1P_yC6VoCxtEumpYMIeUsyJccNB5l0FSDhQFd_3WjM4VAwdqksPmBhkDQVkihIzfBeHO_oUc3Gl5lh
+.netflix.com	TRUE	/	FALSE	1794404772	OptanonConsent	isGpcEnabled=0&datestamp=Tue+Nov+11+2025+10%3A46%3A12+GMT-0300+(Hora+padr%C3%A3o+de+Bras%C3%ADlia)&version=202508.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=c3f26de5-41cd-429f-90e5-f45e18ab8f1c&interactionCount=2&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&intType=3&geolocation=BR%3BPA&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799849892	NetflixId	ct%3DBgjHlOvcAxLeAyGS6bA1GRwYZoV58zFYIm6T6Ccqg6gy4UOA8FaKhUIuEyRNhC_s-ORujEfEprgEC6jgHSq0pDATBJzenvyyUivPuyhB6PJ6KbSBo5ounLVDAhaUO313ouC5d-q3Yf0FoJ35T5QBaedzFj9wmSMqRUjUTkrcEX9lHqqDtmD3H3YJxTtq34SpTxn060IVXRbTxiOutwcCpuCkxSol9U5e-QCWLKpLFb58Pdp_QhSie11hrqyxI-J0rG-wwp-zptAjk5VJSdDsgS7Ta41Nlstryj2lGsRtjt1p8LQ-U3DbZ8-rJMTbOFBwpj1AV72k24alIn4Z35sH82DICMwAE4whWfhy9puPlamjpfsjhl8bRVXUg-UOx4ZN5lzPsKkDWo82fx_0FJdPvlT_iGFnKFwqzJCj84Yd9GAYahVKuygGzHxjMZ-EivLHfGiIEQSi6AjgMb552EKK32bb_M2VLd6Z0HasZ0B23pusP7K3glMQn60c73Rz3FpZpTt8outUNZjNHhalPwmHBG2F9YbI0KW09Ltzh41arIPo7YS1UGdxWuotn8j5NF6KekU9Ac8qfBIQiGrt-_IXvzLycTT9cJZcru21K2lpF_bjkWkwx8WXH9dDw-Uf08FCqWBgGpEmG_UYBiIOCgxCZMB27Jqw8jHrLI4.%26ch%3DAQEAEAABABTAGPk9UC2wJ87dBu8m38QvZ3keDJS9RgU.%26v%3D3%26pg%3DBKOD32B3BNHYRIIT2G2JVOIKSM
+.netflix.com	TRUE	/	TRUE	1799849892	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABSPdrj3ETQH0GvHSglTgpN-t7JKbECTyeI.%26dt%3D1768313891241
+.netflix.com	TRUE	/	TRUE	1791806908	gsid	1e5f6358-0d44-4814-81a2-e6a061e604a2
+.netflix.com	TRUE	/	FALSE	1791806908	netflix-sans-bold-3-loaded	true
+.netflix.com	TRUE	/	FALSE	1791806908	netflix-sans-normal-3-loaded	true

@@ -1,0 +1,37 @@
+NETFLIX HIT :👇
+
+Name: LUÍS
+Email: edsonpiedade2123@gmail.com
+Country: AO
+Plan: Premium
+Member Since: December 2024
+Next Billing: September 25, 2026
+Payment: CC
+Card: 1208
+Phone: +244927513889
+Quality: UHD
+Streams: 4
+Price: 9,99 US$
+Hold Status: No
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (5): EDSON, FORMOSA, LUZIA, LUÍS, EDVÂNIA
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgiqv+vcAxLCAecwMmefHXxYhhBc/BDfSN4GIDuzfLzZ5XXfnmLlvS+hfujgoKLrRNjLnuke+vV8qP9zV613UcaJHMvL5teJOVqh0NHDvU3ibrTonxf+8/gkDFS92RkvD8vd2aGRhseOr3GSS1wgwrmBmUfJmg8rL2FNqfgE/qHbzC7iOY5nGIY7vgN2LDnBgCmkSXOY6g365JjFz8rWuN5BvbhgcodgE4WsBM1ebCvqm+rBppZC2D36y+RY2CQOfptTlcTZWz91yqEWGAYiDgoMUUEbB2uV/LYgDao5
+🖥️ PC Login: https://netflix.com/?nftoken=Bgiqv+vcAxLCAecwMmefHXxYhhBc/BDfSN4GIDuzfLzZ5XXfnmLlvS+hfujgoKLrRNjLnuke+vV8qP9zV613UcaJHMvL5teJOVqh0NHDvU3ibrTonxf+8/gkDFS92RkvD8vd2aGRhseOr3GSS1wgwrmBmUfJmg8rL2FNqfgE/qHbzC7iOY5nGIY7vgN2LDnBgCmkSXOY6g365JjFz8rWuN5BvbhgcodgE4WsBM1ebCvqm+rBppZC2D36y+RY2CQOfptTlcTZWz91yqEWGAYiDgoMUUEbB2uV/LYgDao5
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgiqv+vcAxLCAecwMmefHXxYhhBc/BDfSN4GIDuzfLzZ5XXfnmLlvS+hfujgoKLrRNjLnuke+vV8qP9zV613UcaJHMvL5teJOVqh0NHDvU3ibrTonxf+8/gkDFS92RkvD8vd2aGRhseOr3GSS1wgwrmBmUfJmg8rL2FNqfgE/qHbzC7iOY5nGIY7vgN2LDnBgCmkSXOY6g365JjFz8rWuN5BvbhgcodgE4WsBM1ebCvqm+rBppZC2D36y+RY2CQOfptTlcTZWz91yqEWGAYiDgoMUUEbB2uV/LYgDao5
+Valid Till (UTC): 2026-09-12 15:18:09 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1798811865	nfvdid	BQFmAAEBEAOVcE7JbVi4Dt6wyQBq9Z1g_-jA_9LslfsgHHSBN7CF6ZMSAPUy-OsMa4k1W_TRWfqtgv4bvtJFBH0_X1UXMqY73VZxqerRjgPKo8Rz-A6LwzS3j0GgeLLbLW_Gx0LdIYUUeIzfe2cixfvwFA_V9oV6
+.netflix.com	TRUE	/	TRUE	1799536578	NetflixId	ct%3DBgjHlOvcAxLmAwEpUDI08mG3QBnlZdv_xW-ynPSaE28CUjcIzxDH7I59e79k57StE9JBjNdXb2tmYAUSIEAa9cd-ArJTIbzr-goGZu2cbWVHuvslKLMzOWE1QQG8z8v_dwgWTyW2qcVnrFaRQh0k-AtfWIU0cUOODxE6YvlhDTSbRoOPCP0Z-Kd2VNXC_Yw3nNCB4jb0kxvrCMCKhxXEUeiVbetV1DBDi-VC1xl-eK31b0Kc_6sEsA1Yx68D_XEUVSOr0LQbfTCjjNIF1b4zwIqYpXCQUA4-Xb5ao1hEdK_CimxjQqcdvm25rS-tYzVu0UEcrI6zExR7vUbCh_z8qTGE9cKSJAvA3G7fayvHwPgiN4R55IVppcKTSnyyBsPPMqMAdExiQ2Lgic4zV9O7GyTBmU5uTSF1R4B3yc_SUdChAfUpJ0SQVcYx5cZRCn-ilh_GO0dQXIySptCw4FfrqYBPtq54u3Lh56JXImn9Nbzs74MumJ5_LPy-SPU0u-ak5o27992jesDf3hBzpQUCKonCYqVrQLcGqi_uhxrLofptSOtPZJANjEbGv3-O6YY0KAwwUijkdf-Qu2HCnM4t_GMYGxprASQyDcIJ1oSiQQoH9lANdnt33PNkbfQFnLBRhE7yo2Rc7p3Ld1ok-_iv9RgGIg4KDICnyiRoQTMW07daRg..%26ch%3DAQEAEAABABRepllttsPgF2TEpZ1g47Kz5e3zcO6iR54.%26v%3D3%26pg%3D64KJNMUOQFFEFOPFOZRL7TLPFU
+.netflix.com	TRUE	/	FALSE	1799536585	OptanonConsent	isGpcEnabled=0&datestamp=Fri+Jan+09+2026+20%3A16%3A25+GMT-0300+(Hor%C3%A1rio+Padr%C3%A3o+de+Bras%C3%ADlia)&version=202512.1.0&browserGpcFlag=0&isIABGlobal=false&hosts=&consentId=56414aac-9cf9-42d0-81e0-ab06e8543cce&interactionCount=1&isAnonUser=1&landingPath=NotLandingPage&groups=C0001%3A1%2CC0002%3A1%2CC0003%3A1%2CC0004%3A1&AwaitingReconsent=false
+.netflix.com	TRUE	/	TRUE	1799536578	SecureNetflixId	v%3D3%26mac%3DAQEAEQABABR5cccpXgFL2jqyeJF1360EGZ4wy27a5L4.%26dt%3D1768000578723
