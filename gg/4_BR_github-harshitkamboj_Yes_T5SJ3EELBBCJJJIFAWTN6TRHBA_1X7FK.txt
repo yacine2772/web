@@ -1,0 +1,35 @@
+NETFLIX HIT :👇
+
+Name: Clark Kent
+Email: clarkmenescal@gmail.com
+Country: BR
+Plan: Premium
+Member Since: June 2026
+Next Billing: October 14, 2026
+Payment: CC
+Card: 6545
+Phone: +5547996610823
+Quality: UHD
+Streams: 4
+Price: R$ 59,90
+Hold Status: No
+Extra Member: Yes
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (5): Clark Kent, Mãe, Calvin, Luck, Infantil
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgiqv+vcAxLCAUwA9e+Tl4PiSGkfzCHYSHSbjo3pIo5YBCs5Oz+SxQUg1q+Toxh1xXrDUgYIhb2Dz0bqakAtpTPvhlLWEz0A5T65IWE9qWb7HVuaoLkcZelYvZA2EdZSKDGaFU16Vm+VC4xVFz0I4Ab5Y3dPtK9C2VqApg3ozn16RXulvj4hOrTuRFlf1ezYhLUPdjdoJrhDYK9V9L+TWk+VzeEOXgJdaqVvD84UwGJSZD2Tns89M8CrwrOwD6U+YyVSy7mijOwZ9BbTGAYiDgoMJT8Tvf8M3iKfrbSv
+🖥️ PC Login: https://netflix.com/?nftoken=Bgiqv+vcAxLCAUwA9e+Tl4PiSGkfzCHYSHSbjo3pIo5YBCs5Oz+SxQUg1q+Toxh1xXrDUgYIhb2Dz0bqakAtpTPvhlLWEz0A5T65IWE9qWb7HVuaoLkcZelYvZA2EdZSKDGaFU16Vm+VC4xVFz0I4Ab5Y3dPtK9C2VqApg3ozn16RXulvj4hOrTuRFlf1ezYhLUPdjdoJrhDYK9V9L+TWk+VzeEOXgJdaqVvD84UwGJSZD2Tns89M8CrwrOwD6U+YyVSy7mijOwZ9BbTGAYiDgoMJT8Tvf8M3iKfrbSv
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgiqv+vcAxLCAUwA9e+Tl4PiSGkfzCHYSHSbjo3pIo5YBCs5Oz+SxQUg1q+Toxh1xXrDUgYIhb2Dz0bqakAtpTPvhlLWEz0A5T65IWE9qWb7HVuaoLkcZelYvZA2EdZSKDGaFU16Vm+VC4xVFz0I4Ab5Y3dPtK9C2VqApg3ozn16RXulvj4hOrTuRFlf1ezYhLUPdjdoJrhDYK9V9L+TWk+VzeEOXgJdaqVvD84UwGJSZD2Tns89M8CrwrOwD6U+YyVSy7mijOwZ9BbTGAYiDgoMJT8Tvf8M3iKfrbSv
+Valid Till (UTC): 2026-09-17 16:04:22 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1805204384	NetflixId	ct%3DBgjHlOvcAxKHBAqcLqud4p4OjFpdlt8RA2E1cWtFEweaOTiagkDeTTeYXwrYUfaK3hMoW0NYT-qTBl2gmKT0YlHk5hyNSqLTKmc8a_oO3QURgu76kpOyQqko_WyJ6tlmCWX0K7Drv0uGiKqk_z8dhnxDeNxl9OnZW_9Tun6Jq-2pxXulVJcgFlkbpwFRLg4cT_xtmrWVtDWGOLb2ct37ytWbKVTH0CDGnThr0oUyTXVGv8DCGdYdyoB4SumjJvx5ZY-WIUuKz_3w2jiGTTok3Bqy3ndMpv5MBQVG2gzH8MzxO_UpvcaQMMgnxdmw4bt4a-_D3k2AjwgRHpZfstcEjMM-sptTfEfaKqKy5AjnWvn_2q4t0WHWl96QJbKaKYDEyXg3NmeBzI4l_V-2uYD6RNwHAaMVKk3L5cSGLc6Rr5mm7shGPRySTGfTtmZTi6xeHb8PNLZbLl_UptAhC4beqPOTbjbzhw-nqDqkYzzAy0V7pXGoZiLx9UjQohaGl_OmP45bXnBQaE32OPcTfDBHN5-IETkEXLsYijOEIq43n0CoVEV8FUo7euO9e0Kl5sSq21WEkK4hoSq743_QHAYVkUrzgCMtB6fCE-n264KMIARmkRlSpF7HJYCfVRzQN4tA5KvMG6MgUPy48Ikqp4KCk87UZEMByV_zSmGmzLLAepqvp9INuFu8qIblrVCZ6zdUwxgGIg4KDFnEqCfaEN7WspN4yA..%26ch%3DAQEAEAABABQGyx8xYINxmdbGIR8FGFPzmq28l6i2UvY.%26v%3D3%26pg%3DT5SJ3EELBBCJJJIFAWTN6TRHBA

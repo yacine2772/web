@@ -1,0 +1,35 @@
+NETFLIX HIT :👇
+
+Name: Julia & Gabriel
+Email: jucabala42jucabala@gmail.com
+Country: BR
+Plan: Standard
+Member Since: December 2020
+Next Billing: October 10, 2026
+Payment: CC
+Card: 2080
+Phone: +5512991348315
+Quality: HD
+Streams: 2
+Price: R$ 44,90
+Hold Status: No
+Extra Member: Yes
+Email Verified: Yes
+Membership Status: CURRENT_MEMBER
+Profiles (3): Júnior, Julia & Gabriel, Dona Rose
+
+--------------------------------------------------------------------------------------------------
+
+NFToken DETAILS :👇
+
+NFToken: Bgiqv+vcAxLDAdvWRxb/iQ7vSoObR9kgenkLaH11KrLRPGQhe0Zjb6htknWBrkP6CO5ybjA8LZG2c5rNzEfrUjPtNJ2gqIR/LVacCUNo7Y1ECbKkdGgdOazv9Hd+Rc/jASJkXapnliyr0BYfxRuS6vO1gSx5ZtWMbr82HPR+Sx+nrjYoyM0XCh4hTIv1doUmjJ3CBYOZ37W1gYaHEBDoJB/W7xgifRNW4hnRcDxTbOn3ExGxMGdJX2wyGnWHJ1cEP6ARP9p1C1xJJNkvVRgGIg4KDBMpcNeBz+BukLRJYg==
+🖥️ PC Login: https://netflix.com/?nftoken=Bgiqv+vcAxLDAdvWRxb/iQ7vSoObR9kgenkLaH11KrLRPGQhe0Zjb6htknWBrkP6CO5ybjA8LZG2c5rNzEfrUjPtNJ2gqIR/LVacCUNo7Y1ECbKkdGgdOazv9Hd+Rc/jASJkXapnliyr0BYfxRuS6vO1gSx5ZtWMbr82HPR+Sx+nrjYoyM0XCh4hTIv1doUmjJ3CBYOZ37W1gYaHEBDoJB/W7xgifRNW4hnRcDxTbOn3ExGxMGdJX2wyGnWHJ1cEP6ARP9p1C1xJJNkvVRgGIg4KDBMpcNeBz+BukLRJYg==
+📱 Phone Login: https://netflix.com/unsupported?nftoken=Bgiqv+vcAxLDAdvWRxb/iQ7vSoObR9kgenkLaH11KrLRPGQhe0Zjb6htknWBrkP6CO5ybjA8LZG2c5rNzEfrUjPtNJ2gqIR/LVacCUNo7Y1ECbKkdGgdOazv9Hd+Rc/jASJkXapnliyr0BYfxRuS6vO1gSx5ZtWMbr82HPR+Sx+nrjYoyM0XCh4hTIv1doUmjJ3CBYOZ37W1gYaHEBDoJB/W7xgifRNW4hnRcDxTbOn3ExGxMGdJX2wyGnWHJ1cEP6ARP9p1C1xJJNkvVRgGIg4KDBMpcNeBz+BukLRJYg==
+Valid Till (UTC): 2026-09-17 16:05:06 UTC
+
+--------------------------------------------------------------------------------------------------
+
+Checker By: github.com/harshitkamboj | Website: harshitkamboj.in
+Netflix COOKIE :👇
+
+.netflix.com	TRUE	/	FALSE	1805204384	NetflixId	ct%3DBgjHlOvcAxKNBDF7j6rvqrppcPC9f1uHKvHjCNs6Ck5ym7n_E-qmhDiQ3I_87QksaqmNDKxeHBcZpQc3qQcSfnVk6hJTsfqw7Td7S7nqogq82l3SYBxpxxlMIiPxeKFtoHEtGDeDwXyZZUMMkZU-TiUSPJFYxCi3h-7vDsy8pwP2zSwBmlgKJy9kOmv-6tdTX-QgX0Mev3A82mHFF7T1xmWm9ZpNVB2ZBoZis6YLX0tKjpljm8VkGoVCz3QTjqCaXuWYO6XzXHfEr935HBFt1wSY-_fpYl6b82QkKB-Qui2joAqVAtVkkiMG3botCS6ITZsah8sQXNE5dcunTIKNUrF1A7awa35Z2voZEPk8ZrsRTSGuHtbX3gKkkpI01EB_Huh3Znzv_53zThJ5FS4YrO3T1EPo4scyUEuyhadfW3CME8jPtmA9jLv9JXYwN8kekb6bWzSTR2ClgOp_WJ2MVdBiy29zI3XkK6FA4HxnSgq5MFsVh9FV-QAHmpccpA8_lA0A7j3Lpj3K97WqEvT-GZiWlVzunshMSfrNRiahJYfScmS_igH42o-DVNhWatbLH3bw1d9BDxpS55PMMuHkg8IV-ooGse0FFO5jmgfsgEu5CyMDP2qi84cU_feTawslzW6LGiIkCbTMKDG26kEa71EY9Vog_g7YFQp1OY1KIAK_YnBbdsIWcu4-uLBCBXlmsmHIP7u58BgGIg4KDM6DgdIq3a2RqhkP5Q..%26ch%3DAQEAEAABABQzGTgwzuM00C4tKv9feCzOiWUlCSapOAk.%26v%3D3%26pg%3DMKEOVCJ36FHCLFEVCCXPZVJ7RI
